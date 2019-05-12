@@ -13,16 +13,15 @@ Contemporary geographic concepts and theories are examined with emphasis on conc
 
 ## II. Learning Objectives
 
-This course is designed to operate in tension with a disciplinary priority on *the history* of geographic thought. As such, weekly discussions will center on a single book. Students will be This course will expose students to the technical, critical, and collaborative skills necessary to analyze a range of human and environmental phenomena using tools of geographic representation. The studio model will allow students to develop and apply these skills in partnership with community organizations. This course is designed to help students:
-* Extend their skills in digital data preparation and handling in a mapping environment,
-* Gain experience across the full range of steps and tasks that comprise GIS applications,
-* Practice skills that will help them navigate partnerships in mapping work,
-* Become an independent and ethical mapmaker who is prepared to work in a diversity of institutional, geographical, and political contexts, and
-* Produce an applied mapping project from start to finish that may be used to showcase their cartographic and GIS abilities to future employers or academic programs.
+This course is designed to operate in tension with a disciplinary priority on *the history* of geographic thought. As such, weekly discussions will center on a single book, as an access point into the consistencies and contradictions in contemporary geographic debate. This course is designed to help students:
+* Engage in discussions about geographic scholarship,
+* Trace geographic thought within recent geographic studies,
+* Write critical and informed analyses of entire texts, and
+* Practice independent research to situate geographic thought.
 
 ## III. Format
 
-This course will be composed entirely of seminar discussions. 
+This course will be composed entirely of seminar discussions.
 
 ## IV. Required Texts
 
