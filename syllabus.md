@@ -89,10 +89,10 @@ Video and audio recordings are not permitted during our class meetings unless th
 ### Get help.
 
 If you are having difficulty with any course material, please contact the instructor. There are also other resources which you should find useful:
-* (Pauer Center for Cartography & GIS)[https://geography.as.uky.edu/cartlab] in Miller Hall 5
-* (The University Writing Center)[https://uky.mywconline.com]
-* (Map Collections)[http://libguides.uky.edu/maps], Science Library in King Library 410C
-* (Stress Management Workshops)[http://www.uky.edu/counselingcenter/student-services] in Frazee Hall
+* [Pauer Center for Cartography & GIS](https://geography.as.uky.edu/cartlab) in Miller Hall 5
+* [The University Writing Center](https://uky.mywconline.com)
+* [Map Collections](http://libguides.uky.edu/maps), Science Library in King Library 410C
+* [Stress Management Workshops](http://www.uky.edu/counselingcenter/student-services) in Frazee Hall
 
 ### Meet deadlines.
 
