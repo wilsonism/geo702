@@ -17,7 +17,7 @@ This course is designed to operate in tension with a disciplinary priority on *t
 * Engage in discussions about geographic scholarship,
 * Trace geographic thought within recent geographic studies,
 * Write critical and informed analyses of entire texts, and
-* Practice independent research to situate geographic thought.
+* Practice independent research in order to situate geographic ideas.
 
 ## III. Format
 
@@ -25,7 +25,7 @@ This course will be composed entirely of seminar discussions.
 
 ## IV. Required Texts
 
-There are several required texts for this course. Plan ahead to gain access to these texts.
+There are 12 required books for this course. Please plan ahead.
 
 ## V. Assignments, Activities, and Grading
 
@@ -41,15 +41,19 @@ Final grades will be based on a standard scale, i.e., A=90-100%; B=80-89%; C=70-
 
 ### Class participation and preparedness.
 
-Schedule extended time to read the assigned book. Prepare your contributions to our seminars in the form of questions and clarifications, ruminations on selected passages, and select additional material to share in the course of our discussions.
+Schedule extended time to read the weekly assigned books. Prepare your contributions to our seminars in the form of questions and clarifications, ruminations on selected passages, and select additional material to share in the course of our discussions. This is a rare commons that marks the beginning of your graduate study. Therefore, **everyone should contribute to seminar discussions**. If you find this be to be difficult, please schedule time to speak with the instructor.
 
 ### Reaction papers.
 
-asdf
+There are two reaction papers. These papers should be around five pages, double-spaced, and focus on a single book. Each paper should address the following questions:
+1. What key concepts are needed to understand this book?
+2. What is the argument of the book?
+3. What evidence is provided to support this argument?
+4. What is the significance of this book?
 
 ### Final paper.
 
-asdf
+The final paper must be submitted by the scheduled due date for full-credit. The paper should be around 15 pages (no more than 20 pages), double-spaced, and examine a single book from the seminar in greater detail, using additional, supplementary reading. A 250-word abstract will be due in advance that will be shared with the entire class.
 
 ## VI. Important Notices
 
@@ -129,17 +133,17 @@ If you have a documented disability that requires academic accommodations, pleas
 | Week | Tuesday  |
 | :------- | :--------------:        |
 | 1:<br>Aug. 27 | Introductions |
-| 2:<br>Sep. 3 | Geography and Empire<br>Neil Smith, *American Empire* (2003), Chs. 1-6 |
-| 3:<br>Sep. 10 | Geography and Empire, cont.<br>Neil Smith, *American Empire* (2003), the rest |
-| 4:<br>Sep. 17 | Spatial Theory<br>Doreen Massey, *For Space* (2005) |
+| 2:<br>Sep. 3 | Geography and Empire<br>Neil Smith, *American Empire* (2003) |
+| 3:<br>Sep. 10 | Spatial Theory<br>Doreen Massey, *For Space* (2005) |
+| 4:<br>Sep. 17 | Feminist Geographies<br>Gillian Rose, *Feminism and Geography* (1993) |
 | 5:<br>Sep. 24 | Seminar will not meet. |
 | 6:<br>Oct. 1 | Colonial Geographies<br>Derek Gregory, *The Colonial Present* (2004) |
 | 7:<br>Oct. 8 | Colonial Geographies, cont.<br>Melissa Wright, *Disposable Women* (2006) |
 | 8:<br>Oct. 15 | Space and Capitalism<br>David Harvey, *The Condition of Postmodernity* (1991) |
-| 9:<br>Oct. 22 | **Reaction Paper 1 Due**<br><br>Fall Recess |
-| 10:<br>Oct. 29 | Feminist Geographies<br>Gillian Rose, *Feminism and Geography* (1993) |
+| 9:<br>Oct. 22 | Fall Recess |
+| 10:<br>Oct. 29 | **Reaction Paper 1 Due**<br><br>Space and Capitalism, cont.<br>J.K. Gibson-Graham, *The End of Capitalism (As We Knew It)* (1996) |
 | 11:<br>Nov. 5 | Black Geographies<br>Katherine McKittrick, *Demonic Grounds* (2006) |
-| 12:<br>Nov. 12 | Black Geographies, cont.<br>Ruth Wilson Gilmore, *Golden Gulag* (2007) |
+| 12:<br>Nov. 12 | **Final Paper Abstract Due**<br><br>Black Geographies, cont.<br>Ruth Wilson Gilmore, *Golden Gulag* (2007) |
 | 13:<br>Nov. 19 | Radical Geographies<br>Trevor Barnes and Eric Sheppard, *Spatial Histories of Radical Geography*, (2019) |
 | 14:<br>Nov. 26 | Seminar will not meet. |
 | 15:<br>Dec. 3 | Digital Geographies<br>Rob Kitchin and Martin Dodge, *Code/Space* (2014) |
@@ -150,6 +154,8 @@ If you have a documented disability that requires academic accommodations, pleas
 ## VIII. References
 
 Barnes, Trevor J., and Eric S. Sheppard, eds. 2019. *Spatial Histories of Radical Geography: North America and beyond*. Hoboken, NJ: Wiley.
+
+Gibson-Graham, J. K. 2006 (1996). The End of Capitalism (As We Knew It): A feminist critique of political economy. Minneapolis: University of Minnesota Press.
 
 Gilmore, Ruth Wilson. 2007. *Golden Gulag: Prisons, surplus, crisis, and opposition in globalizing California*. Berkeley: University of California Press.
 
