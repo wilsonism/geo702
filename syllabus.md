@@ -1,4 +1,4 @@
-# Geography 702:<br>Concepts in Geography<br>Fall 2019
+# Geography 702:<br>Concepts in Geography<br>Fall 2019<br>**DRAFT**
 Lectures: T 2-4:30pm, Classroom Building 305
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
