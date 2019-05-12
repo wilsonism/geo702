@@ -139,26 +139,26 @@ If you have a documented disability that requires academic accommodations, pleas
 
 ## VII. Schedule
 
-*Subject to change.*
+*Subject to change. Page assignments will be confirmed a week prior to scheduled discussion.*
 
 | Week | Tuesday  |
-| :---------------- | :-----------------------------------------------:        |
-| 1:<br>Aug. 27 | - - - |
-| 2:<br>Sep. 3 | [Introduce site analysis](site-analysis/README.md)<br>Mapwalk in NE Lexington |
-| 3:<br>Sep. 10 | Tech demonstrations<br>Work on site analysis |
-| 4:<br>Sep. 17 | Tech demonstrations<br>Work on site analysis |
-| 5:<br>Sep. 24 | Tech demonstrations<br>Studio + Desk Critiques |
-| 6:<br>Oct. 1 | Studio + Desk Critiques |
-| 7:<br>Oct. 8 | Studio + Desk Critiques |
-| 8:<br>Oct. 15 | Studio + Desk Critiques |
+| :------- | :--------------:        |
+| 1:<br>Aug. 27 | Introductions |
+| 2:<br>Sep. 3 | Geography and Empire<br>Neil Smith, *American Empire* (2004), Chs. 1-6 |
+| 3:<br>Sep. 10 | Geography and Empire, cont.<br>Neil Smith, *American Empire* (2004), the rest |
+| 4:<br>Sep. 17 | Spatial Theory<br>Doreen Massey, *For Space* (2005) |
+| 5:<br>Sep. 24 | Seminar will not meet. |
+| 6:<br>Oct. 1 | Colonial Geographies<br>Derek Gregory, *The Colonial Present* (2004) |
+| 7:<br>Oct. 8 | Colonial Geographies, cont.<br>Melissa Wright, *Disposable Women* (2006) |
+| 8:<br>Oct. 15 | Space and Capitalism<br>David Harvey, *The Condition of Postmodernity* (1991) |
 | 9:<br>Oct. 22 | Fall Recess |
-| 10:<br>Oct. 29 | Spring Recess |
-| 11:<br>Nov. 5 | Studio + Desk Critiques |
-| 12:<br>Nov. 12 | Studio + Desk Critiques |
-| 13:<br>Nov. 19 | Studio |
-| 14:<br>Nov. 26 | Studio + Desk Critiques |
-| 15:<br>Dec. 3 | Studio + Desk Critiques |
-| 16:<br>Dec. 10 | Studio + Desk Critiques |
+| 10:<br>Oct. 29 | Feminist Geographies<br>Gillian Rose, *Feminism and Geography* (1993) |
+| 11:<br>Nov. 5 | Black Geographies<br>Katherine McKittrick, *Demonic Grounds* (2006) |
+| 12:<br>Nov. 12 | Black Geographies, cont.<br>Ruth Wilson Gillmore, *Golden Gulag* (2007) |
+| 13:<br>Nov. 19 | Radical Geographies<br>Trevor Barnes and Eric Sheppard, *Spatial Histories of Radical Geography*, (2019) |
+| 14:<br>Nov. 26 | Seminar will not meet. |
+| 15:<br>Dec. 3 | Digital Geographies<br>Martin Dodge and Rob Kitchin, *Code/Space* (2014) |
+| 16:<br>Dec. 10 | Affect<br>Derek McCormack, *Atmospheric Things* (2018) |
 
 **Final Paper Due: Wednesday, Dec. 18th, 5pm on Canvas**
 
