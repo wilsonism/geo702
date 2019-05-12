@@ -9,7 +9,7 @@ Lectures: T 2-4:30pm, Classroom Building 305
 
 ## I. Course Description
 
-Drawing on the last twenty-five years of scholarship in critical cartography and critical GIS, this workshop begins from the premise that maps are more than windows on the world. Maps do not only provide a record of geographic phenomena but actually impact the conditions of knowing itself. This ‘more-than-representational’ viewpoint enables a productive urgency at the heart of a collaborative or participatory mapping endeavor. Therefore, the goal for this course is to prepare each student as a responsive and responsible mapmaker, at a moment in digital culture when there are many maps but *few stories being told through them*. To meet this goal, this course develops the concept of the ‘community mapshop’ -- an intensive studio experience in which students use mapping technologies in collaboration with community partners. These partnerships will involve students in a full range of collaborative mapmaking: working with peers and community partners to invest in a study area, acquire and prepare data for spatial analyses, communicating with those impacted by or implicated in these analyses, and produce compelling geographic representations.
+Contemporary geographic concepts and theories are examined with emphasis on concepts within human geography, especially with reference to the economic, urban, cultural, and population subfields within the discipline.
 
 ## II. Learning Objectives
 
@@ -141,28 +141,28 @@ If you have a documented disability that requires academic accommodations, pleas
 
 *Subject to change.*
 
-| Week | Tuesday  | Thursday |
-| :------- | :--------:        | :--------:        |
-| 1:<br>Jan. 10 | - - - | Studio introduction<br>Site introduction<br>[Tech demonstration sign-up](https://docs.google.com/document/d/1ZYK13nSIJf4HZfPlZhc4AOxNt7jTJuqR8IkyuRVe-G8/edit?usp=sharing) |
-| 2:<br>Jan. 15, <br>Jan. 17 | [Introduce site analysis](site-analysis/README.md)<br>Mapwalk in NE Lexington | Work on site analysis |
-| 3:<br>Jan. 22, <br>Jan. 24 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis |
-| 4:<br>Jan. 29, <br>Jan. 31 | Tech demonstrations<br>Work on site analysis | Tech demonstrations<br>Work on site analysis<br><br>**Site Analysis Due** |
-| 5:<br>Feb. 5, <br>Feb. 7 | Tech demonstrations<br>Studio + Desk Critiques | Tech demonstrations<br>Studio + Desk Critiques |
-| 6:<br>Feb. 12, <br>Feb. 14 | Studio + Desk Critiques | Guest lecture on NE Lexington<br>Studio + Desk Critiques |
-| 7:<br>Feb. 19, <br>Feb. 21 | Studio + Desk Critiques | Studio + Desk Critiques |
-| 8:<br>Feb. 26, <br>Feb. 28 | Studio + Desk Critiques | Preparation for Midterm Review |
-| 9:<br>Mar. 5, <br>Mar. 7 | Studio + Desk Critiques | **Midterm Review** |
-| 10:<br>Mar. 10-16 | Spring Recess | Spring Recess |
-| 11:<br>Mar. 19, <br>Mar. 21 | Studio + Desk Critiques | Studio + Desk Critiques |
-| 12:<br>Mar. 26, <br>Mar. 28 | Studio + Desk Critiques | Preparation for Final Review |
-| 13:<br>Apr. 2, <br>Apr. 4 | Studio | Studio |
-| 14:<br>Apr. 9, <br>Apr. 11 | Studio + Desk Critiques | **Final Review** |
-| 15:<br>Apr. 16, <br>Apr. 18 | Studio + Desk Critiques | Preparation for Final Report |
-| 16:<br>Apr. 23, <br>Apr. 25 | Studio + Desk Critiques | Studio + Desk Critiques |
+| Week | Tuesday  |
+| :------- | :--------:        |
+| 1:<br>Aug. 27 | - - - |
+| 2:<br>Sep. 3 | [Introduce site analysis](site-analysis/README.md)<br>Mapwalk in NE Lexington |
+| 3:<br>Sep. 10 | Tech demonstrations<br>Work on site analysis |
+| 4:<br>Sep. 17 | Tech demonstrations<br>Work on site analysis |
+| 5:<br>Sep. 24 | Tech demonstrations<br>Studio + Desk Critiques |
+| 6:<br>Oct. 1 | Studio + Desk Critiques |
+| 7:<br>Oct. 8 | Studio + Desk Critiques |
+| 8:<br>Oct. 15 | Studio + Desk Critiques |
+| 9:<br>Oct. 22 | Fall Recess |
+| 10:<br>Oct. 29 | Spring Recess |
+| 11:<br>Nov. 5 | Studio + Desk Critiques |
+| 12:<br>Nov. 12 | Studio + Desk Critiques |
+| 13:<br>Nov. 19 | Studio |
+| 14:<br>Nov. 26 | Studio + Desk Critiques |
+| 15:<br>Dec. 3 | Studio + Desk Critiques |
+| 16:<br>Dec. 10 | Studio + Desk Critiques |
 
-**Final Report Due: Thursday, May 2nd, 3:30pm on Canvas**
+**Final Paper Due: Wednesday, Dec. 18th, 5pm on Canvas**
 
-## VIII. Resource References
+## VIII. References
 
 Bertin, Jacques. 1983. *Semiology of Graphics: Diagrams, Networks, Maps* (WJ Berg, Trans.). Madison, WI: The University of Wisconsin Press, Ltd.
 
