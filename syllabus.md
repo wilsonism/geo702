@@ -1,4 +1,4 @@
-# Geography 702:<br>Concepts in Geography<br>Fall 2019<br>**DRAFT**
+# Geography 702:<br>Concepts in Geography<br>Fall 2019
 Lectures: T 2-4:30pm, Classroom Building 305
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
@@ -128,7 +128,7 @@ If you have a documented disability that requires academic accommodations, pleas
 
 ## VII. Schedule
 
-*Subject to change. Page assignments will be confirmed a week prior to scheduled discussion.*
+*Subject to change. Page assignments will be confirmed a week prior to the scheduled discussion.*
 
 | Week | Tuesday  |
 | :------- | :--------------:        |
