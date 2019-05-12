@@ -144,7 +144,7 @@ If you have a documented disability that requires academic accommodations, pleas
 | 10:<br>Oct. 29 | **Reaction Paper 1 Due**<br><br>Space and Capitalism, cont.<br>J.K. Gibson-Graham, *The End of Capitalism (As We Knew It)* (1996) |
 | 11:<br>Nov. 5 | Black Geographies<br>Katherine McKittrick, *Demonic Grounds* (2006) |
 | 12:<br>Nov. 12 | **Final Paper Abstract Due**<br><br>Black Geographies, cont.<br>Ruth Wilson Gilmore, *Golden Gulag* (2007) |
-| 13:<br>Nov. 19 | Radical Geographies<br>Trevor Barnes and Eric Sheppard, *Spatial Histories of Radical Geography*, (2019) |
+| 13:<br>Nov. 19 | Radical Geographies<br>Trevor Barnes and Eric Sheppard, *Spatial Histories of Radical Geography* (2019) |
 | 14:<br>Nov. 26 | Seminar will not meet. |
 | 15:<br>Dec. 3 | Digital Geographies<br>Rob Kitchin and Martin Dodge, *Code/Space* (2014) |
 | 16:<br>Dec. 10 | **Reaction Paper 2 Due**<br><br>Affect<br>Derek McCormack, *Atmospheric Things* (2018) |
