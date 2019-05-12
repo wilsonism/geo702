@@ -9,11 +9,11 @@ Lectures: T 2-4:30pm, Classroom Building 305
 
 ## I. Course Description
 
-Contemporary geographic concepts and theories are examined with emphasis on concepts within human geography, especially with reference to the economic, urban, cultural, and population subfields within the discipline.
+Contemporary geographic concepts and theories are examined with emphasis on concepts within human geography.
 
 ## II. Learning Objectives
 
-This course will expose students to the technical, critical, and collaborative skills necessary to analyze a range of human and environmental phenomena using tools of geographic representation. The studio model will allow students to develop and apply these skills in partnership with community organizations. This course is designed to help students:
+This course is designed to operate in tension with a disciplinary priority on *the history* of geographic thought. As such, weekly discussions will center on a single book. Students will be This course will expose students to the technical, critical, and collaborative skills necessary to analyze a range of human and environmental phenomena using tools of geographic representation. The studio model will allow students to develop and apply these skills in partnership with community organizations. This course is designed to help students:
 * Extend their skills in digital data preparation and handling in a mapping environment,
 * Gain experience across the full range of steps and tasks that comprise GIS applications,
 * Practice skills that will help them navigate partnerships in mapping work,
@@ -22,49 +22,35 @@ This course will expose students to the technical, critical, and collaborative s
 
 ## III. Format
 
-This course will be composed entirely of studio sessions, which may involve some skill sharing, technical demonstrations, and guest speakers from the community. There will be in-class and extensive out-of-class assignments, and part of students’ assessments will be based on their observational and data collection work ‘in the field’. In our studio sessions, students will be expected to work constructively with their fellow classmates and visiting community partners.
+This course will be composed entirely of seminar discussions. 
 
 ## IV. Required Texts
 
-While there are no required texts for this course, materials will be made available to students as necessary for the development of the studio projects. Students will be encouraged to conduct their own literature search and annotation for sharing with the studio.
+There are several required texts for this course. Plan ahead to gain access to these texts.
 
 ## V. Assignments, Activities, and Grading
 
 ### Assessment overview.
 
-Students will be assessed in this course using a variety of methods. Attendance and participation in studio is fundamental to successful completion of the course. Assessment is distributed in the following ways, for a total of 350 points:
-* [Site analysis](site-analysis/README.md) (30 points)
-* Technology demonstration (20 points)
-* Midterm review (100 points)
-* Final review (100 points)
-* Final report (50 points)
-* Class participation (50 points)
+Students will be assessed in this course using a variety of methods. Participation in and preparations for seminar are fundamental to successful completion of the course. Assessment is distributed in the following ways, for a total of 100 points:
+* Class participation and preparedness (40 points)
+* Reaction paper 1 (15 points)
+* Reaction paper 2 (15 points)
+* Final paper (30 points)
 
 Final grades will be based on a standard scale, i.e., A=90-100%; B=80-89%; C=70-79%; D=60-69%; E=less than 60%. Grades for all assignments will be available via the University of Kentucky Canvas system (http://uk.instructure.com).
 
-### Site analysis.
+### Class participation and preparedness.
 
-To jump-start the studio, students will complete an initial site analysis of the study area using GIS, to include primary and secondary spatial data. Analysis should highlight and prioritize more formal lines of inquiry that will be pursued throughout the semester, with an identification of potential community partners that could be engaged during the studio. Students are encouraged to use QGIS and/or ArcGIS.
+Schedule extended time to read the assigned book. Prepare your contributions to our seminars in the form of questions and clarifications, ruminations on selected passages, and select additional material to share in the course of our discussions.
 
-### Technology demonstration.
+### Reaction papers.
 
-During the first few weeks of the semester, student pairs will sign-up for, prepare, and lead a technology demonstration during, or immediately following, the completion of their site analyses. In preparation, students will review the assigned technology and prepare a 10-minute overview and demonstration during studio. A typed, one page (single-spaced) review should answer the following questions (1 per student pair): (1) What are the specific system requirements for this technology? (2) What are the specific capabilities of this technology? (3) What is the brief history of this technology’s development and use? Students should print this review and bring it to studio on the day of the scheduled demonstration.
+asdf
 
-### Midterm review.
+### Final paper.
 
-Students will prepare a midterm review as a formalization of work-to-date completed in the studio. Progress will be demonstrated in three areas: (1) more advanced and focused geographic representation from the site analysis, (2) identification of potential community partners and elaboration of specific needs to be addressed, and (3) outline of next steps in refining the analysis, representation, and, as appropriate, the program. Evaluation of the midterm review will occur during class, with invited guest reviewers and community partners. Students with overlapping interests may choose to pair-up for the midterm review, with permission of the instructor.
-
-### Final review.
-
-The final review will need to demonstrate incorporation of feedback from the midterm review and further refinement of the project. Evaluation of the final review will occur during class, with invited guest reviewers and community partners. Students with overlapping interests may choose to pair-up for the final review, with permission of instructor, but **each student** must prepare a final report.
-
-### Final report.
-
-A final report (no more than two-pages, single-spaced, with illustrations included as appendices) should (1) communicate the current state of knowledge regarding the study area, (2) briefly overview the work completed, and (3) discuss the significance of this work and identify further work to be completed. The report may be directed to a specific community partner or organization. Supporting illustrations should be included as appendices in the final report. Delivery of final report should be as a PDF, with a compressed ZIP folder containing all original documents, map files, as well as primary and secondary data. Students are encouraged to submit drafts of the final report for feedback at least one week in advance of the final report deadline.
-
-### Class participation.
-
-While attendance will not be taken, students are expected to attend all scheduled studio sessions. Throughout the semester, desk critiques will be conducted by the instructor and peer students and these ‘desk crits’ will contribute to a final evaluation of class participation.
+asdf
 
 ## VI. Important Notices
 
@@ -75,9 +61,9 @@ Review the course syllabus carefully, paying special attention to due dates and 
 ### Attend class.
 
 Attendance is not taken nor required, however, note that:
-1. the majority of your grade depends on your preparation for, and engagement in, studio;
-2. your success in pushing your technical knowledge of emerging representational technologies largely depends on the effort you apply in studio;
-3. in the event of an absence, you should consult the syllabus and your peers regarding what material you have missed.
+1. the majority of your grade depends on your preparation for, and engagement in, seminar;
+2. your success in pushing your disciplinary knowledge largely depends on the effort you apply to supplement the assigned readings with further reading;
+3. in the event of an absence, you should consult the syllabus and your peers regarding discussions you have missed.
 
 Students need to notify the professor of absences prior to class in writing (or within one week after the absence). S.R. 5.2.4.2 defines the following as acceptable reasons for excused absences: (a) serious illness, (b) illness or death of family member, (c) University-related trips, (d) major religious holidays, and (e) other circumstances found to fit “reasonable cause for nonattendance” by the professor.
 
@@ -87,11 +73,11 @@ Students may be asked to verify their absences in order for them to be considere
 
 ### Be in contact.
 
-You are responsible for checking your UKY email account; the class listserv is what will be used to send communications outside class. Email is the best way to contact the instructor (place ‘GEO509’ in the subject heading). Please allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
+You are responsible for checking your UKY email account; the class listserv is what will be used to send communications outside class. Email is the best way to contact the instructor (place ‘GEO702’ in the subject heading). Please allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
 
 ### Be a resource for others.
 
-Students are strongly encouraged to exchange contact information with classmates, in order to facilitate the objectives of this studio.
+Students are strongly encouraged to exchange contact information with classmates, in order to facilitate the objectives of this seminar.
 
 ### Ask before recording.
 
@@ -112,7 +98,7 @@ Meeting deadlines is an important professional practice. Consult the course sche
 
 ### Be honest.
 
-This course, if successful, will expose you to a variety of concepts and techniques. You are expected to draw upon these various ideas, but you must be transparent and honest about your use of these ideas. Please get help if you’re uncertain about this expectation! Per university policy, students shall not plagiarize, cheat, or falsify or misuse academic records. Students are expected to adhere to University policy on cheating and plagiarism in all courses. The minimum penalty for a first offense is a zero on the assignment on which the offense occurred. If the offense is considered severe or the student has other academic offenses on their record, more serious penalties, up to suspension from the university may be imposed.
+This course, if successful, will expose you to a variety of concepts. You are expected to draw upon these various ideas, but you must be transparent and honest about your use of these ideas. Please get help if you’re uncertain about this expectation! Per university policy, students shall not plagiarize, cheat, or falsify or misuse academic records. Students are expected to adhere to University policy on cheating and plagiarism in all courses. The minimum penalty for a first offense is a zero on the assignment on which the offense occurred. If the offense is considered severe or the student has other academic offenses on their record, more serious penalties, up to suspension from the university may be imposed.
 
 Plagiarism and cheating are serious breaches of academic conduct. Each student is advised to become familiar with the various forms of academic dishonesty as explained in the **Code of Student Rights and Responsibilities**. Complete information can be found at the following website: http://www.uky.edu/Ombud. A plea of ignorance is not acceptable as a defense against the charge of academic dishonesty. It is important that you review this information as all ideas borrowed from others need to be properly credited.
 
@@ -144,48 +130,44 @@ If you have a documented disability that requires academic accommodations, pleas
 | Week | Tuesday  |
 | :------- | :--------------:        |
 | 1:<br>Aug. 27 | Introductions |
-| 2:<br>Sep. 3 | Geography and Empire<br>Neil Smith, *American Empire* (2004), Chs. 1-6 |
-| 3:<br>Sep. 10 | Geography and Empire, cont.<br>Neil Smith, *American Empire* (2004), the rest |
+| 2:<br>Sep. 3 | Geography and Empire<br>Neil Smith, *American Empire* (2003), Chs. 1-6 |
+| 3:<br>Sep. 10 | Geography and Empire, cont.<br>Neil Smith, *American Empire* (2003), the rest |
 | 4:<br>Sep. 17 | Spatial Theory<br>Doreen Massey, *For Space* (2005) |
 | 5:<br>Sep. 24 | Seminar will not meet. |
 | 6:<br>Oct. 1 | Colonial Geographies<br>Derek Gregory, *The Colonial Present* (2004) |
 | 7:<br>Oct. 8 | Colonial Geographies, cont.<br>Melissa Wright, *Disposable Women* (2006) |
 | 8:<br>Oct. 15 | Space and Capitalism<br>David Harvey, *The Condition of Postmodernity* (1991) |
-| 9:<br>Oct. 22 | Fall Recess |
+| 9:<br>Oct. 22 | **Reaction Paper 1 Due**<br><br>Fall Recess |
 | 10:<br>Oct. 29 | Feminist Geographies<br>Gillian Rose, *Feminism and Geography* (1993) |
 | 11:<br>Nov. 5 | Black Geographies<br>Katherine McKittrick, *Demonic Grounds* (2006) |
-| 12:<br>Nov. 12 | Black Geographies, cont.<br>Ruth Wilson Gillmore, *Golden Gulag* (2007) |
+| 12:<br>Nov. 12 | Black Geographies, cont.<br>Ruth Wilson Gilmore, *Golden Gulag* (2007) |
 | 13:<br>Nov. 19 | Radical Geographies<br>Trevor Barnes and Eric Sheppard, *Spatial Histories of Radical Geography*, (2019) |
 | 14:<br>Nov. 26 | Seminar will not meet. |
-| 15:<br>Dec. 3 | Digital Geographies<br>Martin Dodge and Rob Kitchin, *Code/Space* (2014) |
-| 16:<br>Dec. 10 | Affect<br>Derek McCormack, *Atmospheric Things* (2018) |
+| 15:<br>Dec. 3 | Digital Geographies<br>Rob Kitchin and Martin Dodge, *Code/Space* (2014) |
+| 16:<br>Dec. 10 | **Reaction Paper 2 Due**<br><br>Affect<br>Derek McCormack, *Atmospheric Things* (2018) |
 
 **Final Paper Due: Wednesday, Dec. 18th, 5pm on Canvas**
 
 ## VIII. References
 
-Bertin, Jacques. 1983. *Semiology of Graphics: Diagrams, Networks, Maps* (WJ Berg, Trans.). Madison, WI: The University of Wisconsin Press, Ltd.
+Barnes, Trevor J., and Eric S. Sheppard, eds. 2019. *Spatial Histories of Radical Geography: North America and beyond*. Hoboken, NJ: Wiley.
 
-Bunge, William. 1971. *Fitzgerald: geography of a revolution.* Cambridge, Mass.: Schenkman Pub. Co.
+Gilmore, Ruth Wilson. 2007. *Golden Gulag: Prisons, surplus, crisis, and opposition in globalizing California*. Berkeley: University of California Press.
 
-Chrisman, Nicholas R. 1999. What does ‘GIS’ mean? *Transactions in GIS* 3 (2):175-186.
+Gregory, Derek. 2004. *The Colonial Present: Afghanistan, Palestine, and Iraq*. Malden, MA: Blackwell Pub.
 
-Crampton, Jeremy W. 1995. The Ethics of GIS. *Cartography and Geographic Information Systems* 22 (1):84-89.
+Harvey, David. 1989. *The Condition of Postmodernity: An enquiry into the origins of cultural change*. Cambridge, Mass., USA: Blackwell.
 
-Elwood, Sarah A., and Matthew W. Wilson. 2017. Critical GIS pedagogies beyond ‘Week 10: Ethics’. *International Journal of Geographical Information Science* 31 (10):2098-2116.
+Kitchin, Rob, and Martin Dodge. 2011. *Code/space: Software and everyday life*. Cambridge, Mass.: MIT Press.
 
-Imhof, Eduard. 2007. *Cartographic relief presentation.* ESRI, Inc.
+Massey, Doreen. 2005. *For Space*. London: SAGE.
 
-Knigge, LaDona, and Meghan Cope. 2006. Grounded visualization: integrating the analysis of qualitative and quantitative data through grounded theory and visualization. *Environment and Planning A* 38:2021-2037.
+McCormack, Derek P. 2018. *Atmospheric Things: On the allure of elemental envelopment*. Durham: Duke University Press.
 
-Krygier, John, and Denis Wood. 2016. *Making maps: a visual guide to map design for GIS.* 3rd ed. New York: Guilford Press.
+McKittrick, Katherine. 2006. *Demonic Grounds: Black women and the cartographies of struggle*. Minneapolis: University of Minnesota Press.
 
-Robinson, Arthur Howard. 1952. *The look of maps: an examination of cartographic design.* University of Wisconsin Press.
+Rose, Gillian. 1993. *Feminism and Geography: The limits of geographical knowledge*. Minneapolis: University of Minnesota Press.
 
-Schein, Richard H. 2012. Urban Form and Racial Order. *Urban Geography* 33 (7):942-960.
+Smith, Neil. 2003. *American Empire : Roosevelt's geographer and the prelude to globalization*. Berkeley: University of California Press.
 
-Tufte, Edward R. 2001. *The Visual Display of Quantitative Information.* Graphics Press, 2nd edition.
-
-Wilson, Matthew W. 2015. Paying attention, digital media, and community-based critical GIS. *cultural geographies* doi: 10.1177/1474474014539249.
-
-Wood, Denis. 2010. *Everything Sings: Maps for a Narrative Atlas*. Los Angeles: Siglio.
+Wright, Melissa W. 2006. *Disposable Women and Other Myths of Global Capitalism*. New York: Routledge.
