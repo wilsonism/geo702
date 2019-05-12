@@ -142,7 +142,7 @@ If you have a documented disability that requires academic accommodations, pleas
 *Subject to change.*
 
 | Week | Tuesday  |
-| :------- | :--------:        |
+| :---------------- | :-----------------------------------------------:        |
 | 1:<br>Aug. 27 | - - - |
 | 2:<br>Sep. 3 | [Introduce site analysis](site-analysis/README.md)<br>Mapwalk in NE Lexington |
 | 3:<br>Sep. 10 | Tech demonstrations<br>Work on site analysis |
