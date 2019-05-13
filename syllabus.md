@@ -135,11 +135,11 @@ If you have a documented disability that requires academic accommodations, pleas
 | 1:<br>Aug. 27 | Introductions | - - - |
 | 2:<br>Sep. 3 | Geography and Empire | Neil Smith, <br>*American Empire* (2003) |
 | 3:<br>Sep. 10 | Spatial Theory | Doreen Massey, <br>*For Space* (2005) |
-| 4:<br>Sep. 17 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
+| 4:<br>Sep. 17 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
 | 5:<br>Sep. 24 | Seminar will not meet. | - - - |
-| 6:<br>Oct. 1 | Colonial Geographies | Derek Gregory, <br>*The Colonial Present* (2004) |
-| 7:<br>Oct. 8 | Colonial Geographies, cont. | Melissa Wright, <br>*Disposable Women* (2006) |
-| 8:<br>Oct. 15 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1991) |
+| 6:<br>Oct. 1 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
+| 7:<br>Oct. 8 | Colonial Geographies | Derek Gregory, <br>*The Colonial Present* (2004) |
+| 8:<br>Oct. 15 | Colonial Geographies, cont. | Melissa Wright, <br>*Disposable Women* (2006) |
 | 9:<br>Oct. 22 | Fall Recess | - - - |
 | 10:<br>Oct. 29 | **Reaction Paper 1 Due**<br><br>Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*The End of Capitalism (As We Knew It)* (1996) |
 | 11:<br>Nov. 5 | Black Geographies | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
