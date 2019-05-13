@@ -141,13 +141,13 @@ If you have a documented disability that requires academic accommodations, pleas
 | 7:<br>Oct. 8 | Colonial Geographies | Derek Gregory, <br>*The Colonial Present* (2004) |
 | 8:<br>Oct. 15 | Colonial Geographies, cont. | Melissa Wright, <br>*Disposable Women* (2006) |
 | 9:<br>Oct. 22 | Fall Recess | - - - |
-| 10:<br>Oct. 29 | **Reaction Paper 1 Due**<br><br>Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*The End of Capitalism (As We Knew It)* (1996) |
+| 10:<br>Oct. 29 | **Reaction Paper 1 Due**<br>Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*The End of Capitalism (As We Knew It)* (1996) |
 | 11:<br>Nov. 5 | Black Geographies | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
-| 12:<br>Nov. 12 | **Final Paper Abstract Due**<br><br>Black Geographies, cont. | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
+| 12:<br>Nov. 12 | **Final Paper Abstract Due**<br>Black Geographies, cont. | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
 | 13:<br>Nov. 19 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
 | 14:<br>Nov. 26 | Seminar will not meet. | - - - |
 | 15:<br>Dec. 3 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2014) |
-| 16:<br>Dec. 10 | **Reaction Paper 2 Due**<br><br>Affect | Derek McCormack, <br>*Atmospheric Things* (2018) |
+| 16:<br>Dec. 10 | **Reaction Paper 2 Due**<br>Affect | Derek McCormack, <br>*Atmospheric Things* (2018) |
 
 **Final Paper Due: Wednesday, Dec. 18th, 5pm on Canvas**
 
