@@ -131,7 +131,7 @@ If you have a documented disability that requires academic accommodations, pleas
 *Subject to change. Page assignments will be confirmed a week prior to the scheduled discussion.*
 
 | Week | Topic | Reading |
-| :------- | :--------------:        |
+| :------- | :--------------:        | :--------------:        |
 | 1:<br>Aug. 27 | Introductions | - - - |
 | 2:<br>Sep. 3 | Geography and Empire | Neil Smith, *American Empire* (2003) |
 | 3:<br>Sep. 10 | Spatial Theory | Doreen Massey, *For Space* (2005) |
