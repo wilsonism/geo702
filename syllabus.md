@@ -133,13 +133,13 @@ If you have a documented disability that requires academic accommodations, pleas
 | Week | Topic | Reading |
 | :------- | :--------------:        | :--------------:        |
 | 1:<br>Aug. 27 | Introductions | - - - |
-| 2:<br>Sep. 3 | Geography and Empire | Neil Smith, <br>*American Empire* (2003) |
+| 2:<br>Sep. 3 | Geography and Modernity | Susan Schulten, <br>*The Geographical Imagination in America* (2001) |
 | 3:<br>Sep. 10 | Spatial Theory | Doreen Massey, <br>*For Space* (2005) |
-| 4:<br>Sep. 17 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
+| 4:<br>Sep. 17 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
 | 5:<br>Sep. 24 | Seminar will not meet. | - - - |
-| 6:<br>Oct. 1 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
-| 7:<br>Oct. 8 | Colonial Geographies | Derek Gregory, <br>*The Colonial Present* (2004) |
-| 8:<br>Oct. 15 | Colonial Geographies, cont. | Melissa Wright, <br>*Disposable Women* (2006) |
+| 6:<br>Oct. 1 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
+| 7:<br>Oct. 8 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
+| 8:<br>Oct. 15 | Colonial Geographies | Melissa Wright, <br>*Disposable Women* (2006) |
 | 9:<br>Oct. 22 | Fall Recess | - - - |
 | 10:<br>Oct. 29 | **Reaction Paper 1 Due**<br>Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*The End of Capitalism (As We Knew It)* (1996) |
 | 11:<br>Nov. 5 | Black Geographies | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
@@ -159,8 +159,6 @@ Gibson-Graham, J. K. 2006 (1996). The End of Capitalism (As We Knew It): A femin
 
 Gilmore, Ruth Wilson. 2007. *Golden Gulag: Prisons, surplus, crisis, and opposition in globalizing California*. Berkeley: University of California Press.
 
-Gregory, Derek. 2004. *The Colonial Present: Afghanistan, Palestine, and Iraq*. Malden, MA: Blackwell Pub.
-
 Harvey, David. 1989. *The Condition of Postmodernity: An enquiry into the origins of cultural change*. Cambridge, Mass., USA: Blackwell.
 
 Kitchin, Rob, and Martin Dodge. 2011. *Code/space: Software and everyday life*. Cambridge, Mass.: MIT Press.
@@ -173,6 +171,8 @@ McKittrick, Katherine. 2006. *Demonic Grounds: Black women and the cartographies
 
 Rose, Gillian. 1993. *Feminism and Geography: The limits of geographical knowledge*. Minneapolis: University of Minnesota Press.
 
-Smith, Neil. 2003. *American Empire : Roosevelt's geographer and the prelude to globalization*. Berkeley: University of California Press.
+Schulten, Susan. 2001. *The Geographical Imagination in America, 1880-1950*. Chicago: University of Chicago Press.
+
+Smith, Neil. 1984. *Uneven Development: Nature, capital, and the production of space*. New York, NY: Blackwell.
 
 Wright, Melissa W. 2006. *Disposable Women and Other Myths of Global Capitalism*. New York: Routledge.
