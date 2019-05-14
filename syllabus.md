@@ -134,20 +134,20 @@ If you have a documented disability that requires academic accommodations, pleas
 | :------- | :--------------:        | :--------------:        |
 | 1:<br>Aug. 27 | Introductions | - - - |
 | 2:<br>Sep. 3 | Geography and Modernity | Susan Schulten, <br>*The Geographical Imagination in America* (2001) |
-| 3:<br>Sep. 10 | Spatial Theory | Doreen Massey, <br>*For Space* (2005) |
+| 3:<br>Sep. 10 | Spatial Theories | Doreen Massey, <br>*For Space* (2005) |
 | 4:<br>Sep. 17 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
 | 5:<br>Sep. 24 | Seminar will not meet. | - - - |
 | 6:<br>Oct. 1 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
 | 7:<br>Oct. 8 | Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*The End of Capitalism (As We Knew It)* (1996) |
 | 8:<br>Oct. 15 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
 | 9:<br>Oct. 22 | Fall Recess | - - - |
-| 10:<br>Oct. 29 | **Reaction Paper 1 Due**<br>Colonial Geographies | Melissa Wright, <br>*Disposable Women* (2006) |
+| 10:<br>Oct. 29 | **Reaction Paper 1 Due**<br>Border Geographies | Melissa Wright, <br>*Disposable Women* (2006) |
 | 11:<br>Nov. 5 | Black Geographies | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
-| 12:<br>Nov. 12 | **Final Paper Abstract Due**<br>Black Geographies, cont. | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
+| 12:<br>Nov. 12 | **Final Paper Abstract Due**<br>Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
 | 13:<br>Nov. 19 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
 | 14:<br>Nov. 26 | Seminar will not meet. | - - - |
 | 15:<br>Dec. 3 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2014) |
-| 16:<br>Dec. 10 | **Reaction Paper 2 Due**<br>Affect | Derek McCormack, <br>*Atmospheric Things* (2018) |
+| 16:<br>Dec. 10 | **Reaction Paper 2 Due**<br>Thing Geographies | Derek McCormack, <br>*Atmospheric Things* (2018) |
 
 **Final Paper Due: Wednesday, Dec. 18th, 5pm on Canvas**
 
