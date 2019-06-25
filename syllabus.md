@@ -41,7 +41,7 @@ Final grades will be based on a standard scale, i.e., A=90-100%; B=80-89%; C=70-
 
 ### Class participation and preparedness.
 
-Schedule extended time to read the weekly assigned books. Prepare your contributions to our seminars in the form of questions and clarifications, ruminations on selected passages, and select additional material to share in the course of our discussions. This is a rare commons that marks the beginning of your graduate study. Therefore, **everyone should contribute to seminar discussions**. If you find this be to be difficult, please schedule time to speak with the instructor.
+Each week, students will be asked to volunteer to lead our discussions, and these students will coordinate their plans with the instructor. We will use the Canvas discussion board to share questions and resources. Schedule extended time to read the weekly assigned books. Prepare your contributions to our seminars in the form of questions and clarifications, ruminations on selected passages, and select additional material to share in the course of our discussions. This is a rare commons that marks the beginning of your graduate study. Therefore, **everyone should contribute to seminar discussions**. If you find this be to be difficult, please schedule time to speak with the instructor.
 
 ### Reaction papers.
 
@@ -146,7 +146,7 @@ If you have a documented disability that requires academic accommodations, pleas
 | 12:<br>Nov. 12 | **Final Paper Abstract Due**<br>Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
 | 13:<br>Nov. 19 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
 | 14:<br>Nov. 26 | Seminar will not meet. | - - - |
-| 15:<br>Dec. 3 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2014) |
+| 15:<br>Dec. 3 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2011) |
 | 16:<br>Dec. 10 | **Reaction Paper 2 Due**<br>Thing Geographies | Derek McCormack, <br>*Atmospheric Things* (2018) |
 
 **Final Paper Due: Wednesday, Dec. 18th, 5pm on Canvas**
