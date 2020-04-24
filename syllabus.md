@@ -1,4 +1,4 @@
-# Geography 702:<br>Concepts in Geography<br>Fall 2019
+# Geography 702:<br>Concepts in Geography<br>Fall 2020
 Lectures: T 2-4:30pm, Classroom Building 305
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
@@ -132,30 +132,32 @@ If you have a documented disability that requires academic accommodations, pleas
 
 | Week | Topic | Reading |
 | :------- | :--------------:        | :--------------:        |
-| 1:<br>Aug. 27 | Introductions | - - - |
-| 2:<br>Sep. 3 | Geography and Modernity | Susan Schulten, <br>*The Geographical Imagination in America* (2001) |
-| 3:<br>Sep. 10 | Spatial Theories | Doreen Massey, <br>*For Space* (2005) |
-| 4:<br>Sep. 17 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
-| 5:<br>Sep. 24 | Seminar will not meet. | - - - |
-| 6:<br>Oct. 1 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
-| 7:<br>Oct. 8 | Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*The End of Capitalism (As We Knew It)* (1996) |
-| 8:<br>Oct. 15 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
-| 9:<br>Oct. 22 | Fall Recess | - - - |
-| 10:<br>Oct. 29 | **Reaction Paper 1 Due**<br>Border Geographies | Melissa Wright, <br>*Disposable Women* (2006) |
-| 11:<br>Nov. 5 | Black Geographies | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
-| 12:<br>Nov. 12 | **Final Paper Abstract Due**<br>Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
-| 13:<br>Nov. 19 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
-| 14:<br>Nov. 26 | Seminar will not meet. | - - - |
-| 15:<br>Dec. 3 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2011) |
-| 16:<br>Dec. 10 | **Reaction Paper 2 Due**<br>Thing Geographies | Derek McCormack, <br>*Atmospheric Things* (2018) |
+| 1:<br>Aug. 25 | Introductions | - - - |
+| 2:<br>Sep. 1 | Geography and Modernity | Susan Schulten, <br>*The Geographical Imagination in America* (2001) |
+| 3:<br>Sep. 8 | Spatial Theories | Doreen Massey, <br>*For Space* (2005) |
+| 4:<br>Sep. 15 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
+| 5:<br>Sep. 22 | Seminar will not meet. | - - - |
+| 6:<br>Sep. 29 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
+| 7:<br>Oct. 6 | Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*A Postcapitalist Politics* (2006) |
+| 8:<br>Oct. 13 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
+| 9:<br>Oct. 20 | Fall Recess | - - - |
+| 10:<br>Oct. 27 | **Reaction Paper 1 Due**<br>Border Geographies | Melissa Wright, <br>*Disposable Women* (2006) |
+| 11:<br>Nov. 3 | Black Geographies | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
+| 12:<br>Nov. 10 | **Final Paper Abstract Due**<br>Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
+| 13:<br>Nov. 17 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
+| 14:<br>Nov. 24 | Seminar will not meet. | - - - |
+| 15:<br>Dec. 1 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2011) |
+| 16:<br>Dec. 8 | **Reaction Paper 2 Due**<br>Urban Geographies | Ash Amin and Nigel Thrift, <br>*Cities: Reimagining the Urban* (2002) |
 
-**Final Paper Due: Wednesday, Dec. 18th, 5pm on Canvas**
+**Final Paper Due: Wednesday, Dec. 16th, 5pm on Canvas**
 
 ## VIII. References
 
+Amin, Ash, and Nigel Thrift. 2002. *Cities: Reimagining the Urban*. London: Polity.
+
 Barnes, Trevor J., and Eric S. Sheppard, eds. 2019. *Spatial Histories of Radical Geography: North America and beyond*. Hoboken, NJ: Wiley.
 
-Gibson-Graham, J. K. 2006 (1996). The End of Capitalism (As We Knew It): A feminist critique of political economy. Minneapolis: University of Minnesota Press.
+Gibson-Graham, J. K. 2006. *A Postcapitalist Politics*. Minneapolis: University of Minnesota Press.
 
 Gilmore, Ruth Wilson. 2007. *Golden Gulag: Prisons, surplus, crisis, and opposition in globalizing California*. Berkeley: University of California Press.
 
@@ -164,8 +166,6 @@ Harvey, David. 1989. *The Condition of Postmodernity: An enquiry into the origin
 Kitchin, Rob, and Martin Dodge. 2011. *Code/space: Software and everyday life*. Cambridge, Mass.: MIT Press.
 
 Massey, Doreen. 2005. *For Space*. London: SAGE.
-
-McCormack, Derek P. 2018. *Atmospheric Things: On the allure of elemental envelopment*. Durham: Duke University Press.
 
 McKittrick, Katherine. 2006. *Demonic Grounds: Black women and the cartographies of struggle*. Minneapolis: University of Minnesota Press.
 
