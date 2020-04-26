@@ -147,13 +147,13 @@ If you have a documented disability that requires academic accommodations, pleas
 | 13:<br>Nov. 17 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
 | 14:<br>Nov. 24 | Seminar will not meet. | - - - |
 | 15:<br>Dec. 1 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2011) |
-| 16:<br>Dec. 8 | **Reaction Paper 2 Due**<br>Urban Geographies | Ash Amin and Nigel Thrift, <br>*Cities: Reimagining the Urban* (2002) |
+| 16:<br>Dec. 8 | **Reaction Paper 2 Due**<br>Digital Geographies, cont. | Louise Amoore, <br>*Cloud Ethics* (2020) |
 
 **Final Paper Due: Wednesday, Dec. 16th, 5pm on Canvas**
 
 ## VIII. References
 
-Amin, Ash, and Nigel Thrift. 2002. *Cities: Reimagining the Urban*. London: Polity.
+Amoore, Louise. 2020. *Cloud ethics: algorithms and the attributes of ourselves and others*. Durham: Duke University Press.
 
 Barnes, Trevor J., and Eric S. Sheppard, eds. 2019. *Spatial Histories of Radical Geography: North America and beyond*. Hoboken, NJ: Wiley.
 
