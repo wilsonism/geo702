@@ -138,12 +138,12 @@ If you have a documented disability that requires academic accommodations, pleas
 | 4:<br>Sep. 15 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
 | 5:<br>Sep. 22 | Seminar will not meet. | - - - |
 | 6:<br>Sep. 29 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
-| 7:<br>Oct. 6 | Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*A Postcapitalist Politics* (2006) |
-| 8:<br>Oct. 13 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
+| 7:<br>Oct. 6 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
+| 8:<br>Oct. 13 |  Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
 | 9:<br>Oct. 20 | Fall Recess | - - - |
 | 10:<br>Oct. 27 | **Reaction Paper 1 Due**<br>Border Geographies | Melissa Wright, <br>*Disposable Women* (2006) |
 | 11:<br>Nov. 3 | Black Geographies | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
-| 12:<br>Nov. 10 | **Final Paper Abstract Due**<br>Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
+| 12:<br>Nov. 10 | **Final Paper Abstract Due**<br>Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*A Postcapitalist Politics* (2006) |
 | 13:<br>Nov. 17 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
 | 14:<br>Nov. 24 | Seminar will not meet. | - - - |
 | 15:<br>Dec. 1 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2011) |
