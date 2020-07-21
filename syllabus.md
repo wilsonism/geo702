@@ -146,7 +146,7 @@ If you have a documented disability that requires academic accommodations, pleas
 | 12:<br>Nov. 3 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
 | 13:<br>Nov. 10 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2011) |
 | 14:<br>Nov. 17 | **Reaction Paper 2 Due**<br>Digital Geographies, cont. | Louise Amoore, <br>*Cloud Ethics* (2020) |
-| 15:<br>Nov. 24 | Seminar will not meet |
+| 15:<br>Nov. 24 | Seminar will not meet. | - - - |
 
 **Final Paper Due: Friday, Dec. 4th, 5pm on Canvas**
 
