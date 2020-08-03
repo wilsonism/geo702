@@ -1,5 +1,5 @@
 # Geography 702:<br>Concepts in Geography<br>Fall 2020
-Lectures: T 2-4:30pm, Classroom Building 305 and/or via Zoom
+Lectures: T 2-4:30pm, Classroom Building 301 and via Zoom
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
@@ -21,7 +21,7 @@ This course is designed to operate in tension with a disciplinary priority on *t
 
 ## III. Format
 
-This course will be composed entirely of seminar discussions.
+This course will be composed entirely of seminar discussions. These discussions may occur in-person or via Zoom.
 
 ## IV. Required Texts
 
@@ -75,17 +75,33 @@ Students anticipating an absence for a major religious holiday are responsible f
 
 Students may be asked to verify their absences in order for them to be considered excused. Senate Rule 5.2.4.2 states that faculty have the right to request “appropriate verification” when students claim an excused absence because of illness or death in the family. Appropriate notification of absences due to university-related trips is required prior to the absence.
 
+### Wear a mask and maintain physical distance.
+
+In accordance with University guidelines, students must wear UK-approved face coverings in the classroom and academic buildings (e.g., faculty offices, laboratories, libraries, performance/design studios, and common study areas where students might congregate). If UK-approved face coverings are not worn over the nose and mouth, students will be asked to leave the classroom.
+
+Students should complete their daily online wellness screening before accessing university facilities and arriving to class. Students should not move chairs or barriers in classrooms and should socially distance at all times, leaving a six (6) foot radius from other people. Masks and hand sanitizer can be found at entrances to this building if needed. Students should leave enough space when entering and exiting a room. Students should not crowd doorways at the beginning or end of class.
+
+The instructor may choose to remove a mask when pedagogically necessary at the front of the classroom and behind a clear barrier. The instructor's mask will be replaced when it is no longer necessary to have it removed, or when the class meeting is complete.
+
 ### Be in contact.
 
-You are responsible for checking your UKY email account; the class listserv is what will be used to send communications outside class. Email is the best way to contact the instructor (place ‘GEO702’ in the subject heading). Please allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
+Students are responsible for checking their UKY email account; the class listserv is what will be used to send communications outside class. Email is the best way to contact the instructor (place ‘GEO702’ in the subject heading). Please allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
 
 ### Be a resource for others.
 
 Students are strongly encouraged to exchange contact information with classmates, in order to facilitate the objectives of this seminar.
 
-### Ask before recording.
+### Get permission before recording.
 
-Video and audio recordings are not permitted during our class meetings unless the student has received prior permission from the instructors. If permission is granted, recording of other students is prohibited. Any distribution of recordings is also probhibited. Students with specific recording accommodations approved by the Disability Resource Center should present their official documentation to the instructor. All content for this course, including handouts, assignments, and lectures are the intellectual property of the instructors and cannot be reproduced, sold, or used for any purpose other than educational work in this class without prior permission from the instructor.
+Meetings of this course may be recorded. All video and audio recordings of lecturers and class meetings, provided by the instructors, are for educational use by students in this class only. They are available only through the Canvas shell for this course and are not to be copied, shared, or redistributed.
+
+The University of Kentucky Student Code of Conduct defines Invasion of Privacy as using electronic or other devices to make a photographic, audio, or video record of any person without their prior knowledge or consent when such a recording is likely to cause injury or distress. As addressed in the Student Code of Conduct, students are expected to follow appropriate university policies and maintain the security of linkblue accounts used to access recorded class materials. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments.
+
+If the instructor or a University of Kentucky office plans any other uses for the recordings, beyond this class, students identifiable in the recordings will be notified to request consent prior to such use. In anticipation of such cases, students may be asked to complete an “authorization of use” form by a faculty member.
+
+Video and audio recordings by students are not permitted during the class unless the student has received prior permission from the instructor. Any sharing, distribution, and or uploading of these recordings outside of the parameters of the class is prohibited. Students with specific recording accommodations approved by the Disability Resource Center should present their official documentation to the instructor.
+
+All content for this course, including handouts, assignments, and lectures are the intellectual property of the instructors and cannot be reproduced or sold without prior permission from the instructors. A student may use the material for reasonable educational and professional purposes extending beyond this class, such as studying for a comprehensive or qualifying examination in a degree program, preparing for a professional or certification examination, or to assist in fulfilling responsibilities at a job or internship.
 
 ### Get help.
 
