@@ -1,5 +1,5 @@
-# Geography 702:<br>Concepts in Geography<br>Fall 2021 DRAFT
-Lectures: M 2-4:30pm, Classroom Building 301
+# Geography 702:<br>Concepts in Geography<br>Fall 2021
+Lectures: M 2-4:30pm, Classroom Building TBD
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
@@ -186,13 +186,13 @@ Kosek, Jake. *Understories: The Political Life of Forests in Northern New Mexico
 
 Massey, Doreen. 2005. *For Space*. London: SAGE.
 
-McKittrick, Katherine. 2006. *Demonic Grounds: Black women and the cartographies of struggle*. Minneapolis: University of Minnesota Press.
+McKittrick, Katherine. 2006. *Demonic Grounds: Black Women and the Cartographies of Struggle*. Minneapolis: University of Minnesota Press.
 
 Rose, Gillian. 1993. *Feminism and Geography: The limits of geographical knowledge*. Minneapolis: University of Minnesota Press.
 
 Schulten, Susan. 2001. *The Geographical Imagination in America, 1880-1950*. Chicago: University of Chicago Press.
 
-Smith, Neil. 1984. *Uneven Development: Nature, capital, and the production of space*. New York, NY: Blackwell.
+Smith, Neil. 1984. *Uneven Development: Nature, Capital, and the Production of Space*. New York, NY: Blackwell.
 
 Woods, Clyde Adrian. 1998. *Development Arrested: The Blues and Plantation Power in the Mississippi Delta*. New York: Verso.
 
