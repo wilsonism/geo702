@@ -1,5 +1,5 @@
-# Geography 702:<br>Concepts in Geography<br>Fall 2020
-Lectures: T 2-4:30pm, Classroom Building 301 and via Zoom
+# Geography 702:<br>Concepts in Geography<br>Fall 2021 DRAFT
+Lectures: M 2-4:30pm, Classroom Building 301
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
@@ -25,7 +25,7 @@ This course will be composed entirely of seminar discussions. These discussions 
 
 ## IV. Required Texts
 
-There are 12 required books for this course. Please plan ahead. Contact the instructor if you have difficulty accessing any book.
+There are 13 required books for this course. Please plan ahead. Contact the instructor if you have difficulty accessing any book.
 
 ## V. Assignments, Activities, and Grading
 
@@ -151,29 +151,28 @@ If you have a documented disability that requires academic accommodations, pleas
 
 | Week | Topic | Reading |
 | :------- | :--------------:        | :--------------:        |
-| 1:<br>Aug. 18 | Introductions | - - - |
-| 2:<br>Aug. 25 | Geography and Modernity | Susan Schulten, <br>*The Geographical Imagination in America* (2001) |
-| 3:<br>Sep. 1 | Spatial Theories | Doreen Massey, <br>*For Space* (2005) |
-| 4:<br>Sep. 8 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
-| 5:<br>Sep. 15 | Seminar will not meet. | - - - |
-| 6:<br>Sep. 22 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
-| 7:<br>Sep. 29 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
-| 8:<br>Oct. 6 |  Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
-| 9:<br>Oct. 13 | **Reaction Paper 1 Due**<br>Border Geographies | Melissa Wright, <br>*Disposable Women* (2006) |
-| 10:<br>Oct. 20 | Black Geographies | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
-| 11:<br>Oct. 27 | **Final Paper Abstract Due**<br>Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*A Postcapitalist Politics* (2006) |
-| 12:<br>Nov. 3 | Radical Geographies | Trevor Barnes and Eric Sheppard, <br>*Spatial Histories of Radical Geography* (2019) |
-| 13:<br>Nov. 10 | Digital Geographies | Rob Kitchin and Martin Dodge, <br>*Code/Space* (2011) |
-| 14:<br>Nov. 17 | **Reaction Paper 2 Due**<br>Digital Geographies, cont. | Louise Amoore, <br>*Cloud Ethics* (2020) |
-| 15:<br>Nov. 24 | Seminar will not meet. | - - - |
+| 1:<br>Aug. 23 | Introductions | - - - |
+| 2:<br>Aug. 30 | Geography and Modernity | Susan Schulten, <br>*The Geographical Imagination in America* (2001) |
+| 3:<br>Sep. 6 | LABOR DAY | - - - |
+| 4:<br>Sep. 13 | Spatial Theories | Doreen Massey, <br>*For Space* (2005) |
+| 5:<br>Sep. 20 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
+| 6:<br>Sep. 27 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
+| 7:<br>Oct. 4 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
+| 8:<br>Oct. 11 | **Reaction Paper 1 Due**<br>Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
+| 9:<br>Oct. 18 | Borders and Capitalism | Melissa Wright, <br>*Disposable Women* (2006) |
+| 10:<br>Oct. 25 | FALL BREAK | - - - |
+| 11:<br>Nov. 1 | Black Geographies | Clyde Woods, <br>*Development Arrested* (1998) |
+| 12:<br>Nov. 8 | Black Geographies, cont. | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
+| 13:<br>Nov. 15 | **Final Paper Abstract Due**<br>Space and Capitalism, cont. | J.K. Gibson-Graham, <br>*A Postcapitalist Politics* (2006) |
+| 14:<br>Nov. 22 | Nature and Difference | Jake Kosek, <br>*Understories* (2006) |
+| 15:<br>Nov. 29 | **Reaction Paper 2 Due**<br>Digital Geographies | Brian Jefferson, <br>*Digitize and Punish* (2020) |
+| 16:<br>Dec. 6 | Digital Geographies, cont. | Louise Amoore, <br>*Cloud Ethics* (2020) |
 
-**Final Paper Due: Friday, Dec. 4th, 5pm on Canvas**
+**Final Paper Due: Monday, Dec. 13th, 5pm on Canvas**
 
 ## VIII. References
 
 Amoore, Louise. 2020. *Cloud ethics: algorithms and the attributes of ourselves and others*. Durham: Duke University Press.
-
-Barnes, Trevor J., and Eric S. Sheppard, eds. 2019. *Spatial Histories of Radical Geography: North America and beyond*. Hoboken, NJ: Wiley.
 
 Gibson-Graham, J. K. 2006. *A Postcapitalist Politics*. Minneapolis: University of Minnesota Press.
 
@@ -181,7 +180,9 @@ Gilmore, Ruth Wilson. 2007. *Golden Gulag: Prisons, surplus, crisis, and opposit
 
 Harvey, David. 1989. *The Condition of Postmodernity: An enquiry into the origins of cultural change*. Cambridge, Mass., USA: Blackwell.
 
-Kitchin, Rob, and Martin Dodge. 2011. *Code/space: Software and everyday life*. Cambridge, Mass.: MIT Press.
+Jefferson, Brian Jordan. 2020. *Digitize and Punish: Racial Criminalization in the Digital Age*. Minneapolis: University of Minnesota Press.
+
+Kosek, Jake. *Understories: The Political Life of Forests in Northern New Mexico*. Durham: Duke University Press, 2006.
 
 Massey, Doreen. 2005. *For Space*. London: SAGE.
 
@@ -192,5 +193,7 @@ Rose, Gillian. 1993. *Feminism and Geography: The limits of geographical knowled
 Schulten, Susan. 2001. *The Geographical Imagination in America, 1880-1950*. Chicago: University of Chicago Press.
 
 Smith, Neil. 1984. *Uneven Development: Nature, capital, and the production of space*. New York, NY: Blackwell.
+
+Woods, Clyde Adrian. 1998. *Development Arrested: The Blues and Plantation Power in the Mississippi Delta*. New York: Verso.
 
 Wright, Melissa W. 2006. *Disposable Women and Other Myths of Global Capitalism*. New York: Routledge.
