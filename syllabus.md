@@ -1,11 +1,11 @@
 # Geography 702:<br>Concepts in Geography<br>Fall 2021
-Lectures: M 2-4:30pm, Classroom Building TBD
+Lectures: M 2-4:30pm, Classroom Building 305
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
 *Twitter:* [@wilsonism](https://twitter.com/wilsonism)<br>
 *Office:* Patterson Office Tower (POT) 861<br>
-*Office Hours:* by appointment<br>
+*Office Hours:* email for an appointment<br>
 
 ## I. Course Description
 
