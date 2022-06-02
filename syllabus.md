@@ -1,5 +1,5 @@
-# Geography 702:<br>Concepts in Geography<br>Fall 2021
-Lectures: M 2-4:30pm, Classroom Building 305
+# Geography 702:<br>Concepts in Geography<br>Fall 2022
+Lectures: T 2-4:30pm, Classroom Building 305
 
 **[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
@@ -136,13 +136,13 @@ To learn more about campus-wide policies on Excused Absences and Acceptable Excu
 | :------- | :--------------:        | :--------------:        |
 | 1:<br>Aug. 23 | Introductions | - - - |
 | 2:<br>Aug. 30 | Geography and Modernity | Susan Schulten, <br>*The Geographical Imagination in America* (2001) |
-| 3:<br>Sep. 6 | LABOR DAY | - - - |
-| 4:<br>Sep. 13 | Spatial Theories | Doreen Massey, <br>*For Space* (2005) |
-| 5:<br>Sep. 20 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
-| 6:<br>Sep. 27 | Space and Capitalism | David Harvey, <br>*The Condition of Postmodernity* (1989) |
-| 7:<br>Oct. 4 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
-| 8:<br>Oct. 11 | **Reaction Paper 1 Due**<br>Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
-| 9:<br>Oct. 18 | Borders and Capitalism | Melissa Wright, <br>*Disposable Women* (2006) |
+| 3:<br>Sep. 6 | Spatial Theories | Doreen Massey, <br>*For Space* (2005) |
+| 4:<br>Sep. 13 | Nature and Capital | Neil Smith, <br>*Uneven Development* (1984) |
+| 5:<br>Sep. 20 | Space and Capitalism | David Harvey, <br>*Justice, Nature and the Geography of Difference* (1996) |
+| 6:<br>Sep. 27 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
+| 7:<br>Oct. 4 | Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
+| 8:<br>Oct. 11 | **Reaction Paper 1 Due**<br>CLASS WILL NOT MEET | - - - |
+| 9:<br>Oct. 18 | Borders and Capitalism | Jenna Loyd and Alison Mountz, <br>*Boats, Borders, and Bases* (2018) |
 | 10:<br>Oct. 25 | FALL BREAK | - - - |
 | 11:<br>Nov. 1 | Black Geographies | Clyde Woods, <br>*Development Arrested* (1998) |
 | 12:<br>Nov. 8 | Black Geographies, cont. | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
@@ -151,7 +151,7 @@ To learn more about campus-wide policies on Excused Absences and Acceptable Excu
 | 15:<br>Nov. 29 | **Reaction Paper 2 Due**<br>Digital Geographies | Brian Jefferson, <br>*Digitize and Punish* (2020) |
 | 16:<br>Dec. 6 | Digital Geographies, cont. | Louise Amoore, <br>*Cloud Ethics* (2020) |
 
-**Final Paper Due: Monday, Dec. 13th, 5pm on Canvas**
+**Final Paper Due: Tuesday, Dec. 13th, 5pm on Canvas**
 
 ## VIII. References
 
@@ -161,11 +161,13 @@ Gibson-Graham, J. K. 2006. *A Postcapitalist Politics*. Minneapolis: University 
 
 Gilmore, Ruth Wilson. 2007. *Golden Gulag: Prisons, surplus, crisis, and opposition in globalizing California*. Berkeley: University of California Press.
 
-Harvey, David. 1989. *The Condition of Postmodernity: An enquiry into the origins of cultural change*. Cambridge, Mass., USA: Blackwell.
+Harvey, David. 1996. *Justice, nature, and the geography of difference.* Cambridge, Mass.: Blackwell Publishers.
 
 Jefferson, Brian Jordan. 2020. *Digitize and Punish: Racial Criminalization in the Digital Age*. Minneapolis: University of Minnesota Press.
 
 Kosek, Jake. *Understories: The Political Life of Forests in Northern New Mexico*. Durham: Duke University Press, 2006.
+
+Loyd, Jenna M., and Alison Mountz. 2018. *Boats, borders, and bases: race, the cold war, and the rise of migration detention in the United States.* Oakland, California: University of California Press.
 
 Massey, Doreen. 2005. *For Space*. London: SAGE.
 
@@ -178,5 +180,3 @@ Schulten, Susan. 2001. *The Geographical Imagination in America, 1880-1950*. Chi
 Smith, Neil. 1984. *Uneven Development: Nature, Capital, and the Production of Space*. New York, NY: Blackwell.
 
 Woods, Clyde Adrian. 1998. *Development Arrested: The Blues and Plantation Power in the Mississippi Delta*. New York: Verso.
-
-Wright, Melissa W. 2006. *Disposable Women and Other Myths of Global Capitalism*. New York: Routledge.
