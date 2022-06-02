@@ -141,8 +141,8 @@ To learn more about campus-wide policies on Excused Absences and Acceptable Excu
 | 5:<br>Sep. 20 | Space and Capitalism | David Harvey, <br>*Justice, Nature and the Geography of Difference* (1996) |
 | 6:<br>Sep. 27 | Feminist Geographies | Gillian Rose, <br>*Feminism and Geography* (1993) |
 | 7:<br>Oct. 4 | Carceral Geographies | Ruth Wilson Gilmore, <br>*Golden Gulag* (2007) |
-| 8:<br>Oct. 11 | **Reaction Paper 1 Due**<br>CLASS WILL NOT MEET | - - - |
-| 9:<br>Oct. 18 | Borders and Capitalism | Jenna Loyd and Alison Mountz, <br>*Boats, Borders, and Bases* (2018) |
+| 8:<br>Oct. 11 | **Reaction Paper 1 Due**<br>Borders and Capitalism | Jenna Loyd and Alison Mountz, <br>*Boats, Borders, and Bases* (2018) |
+| 9:<br>Oct. 18 | CLASS WILL NOT MEET | - - - |
 | 10:<br>Oct. 25 | FALL BREAK | - - - |
 | 11:<br>Nov. 1 | Black Geographies | Clyde Woods, <br>*Development Arrested* (1998) |
 | 12:<br>Nov. 8 | Black Geographies, cont. | Katherine McKittrick, <br>*Demonic Grounds* (2006) |
