@@ -69,10 +69,6 @@ Attendance is not taken nor required, however, note that:
 2. your success in pushing your disciplinary knowledge largely depends on the effort you apply to supplement the assigned readings with further reading;
 3. in the event of an absence, you should consult the syllabus and your peers regarding discussions you have missed.
 
-### Wear a mask.
-
-In accordance with University guidelines, students must wear UK-approved face coverings in the classroom and academic buildings (e.g., faculty offices, laboratories, libraries, performance/design studios, and common study areas where students might congregate). If UK-approved face coverings are not worn over the nose and mouth, students will be asked to leave the classroom.
-
 ### Be in contact.
 
 You are responsible for checking your UKY email account; Canvas is what will be used to send communications outside class. Email is the best way to contact the instructor. Please allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
