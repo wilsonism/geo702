@@ -1,10 +1,10 @@
-# Geography 702:<br>Concepts in Geography<br>Fall 2022
+# Geography 702:<br>Concepts in Geography<br>Fall 2023 DRAFT
 Lectures: T 2-4:30pm, Classroom Building 305
 
-**[Dr. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
+**[Prof. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
 *Twitter:* [@wilsonism](https://twitter.com/wilsonism)<br>
-*Office:* Patterson Office Tower (POT) 861<br>
+*Office:* Patterson Office Tower (POT) 815<br>
 *Office Hours:* email for an appointment<br>
 
 ## I. Course Description
@@ -13,65 +13,59 @@ Contemporary geographic concepts and theories are examined with emphasis on conc
 
 ## II. Learning Objectives
 
-This course is designed to operate in tension with a disciplinary priority on *the history* of geographic thought. As such, weekly discussions will center on a single book, as an access point into the consistencies and contradictions in contemporary geographic debate. This course is designed to help students:
+This course is designed to operate in tension with a disciplinary priority on *the history* of geographic thought. As such, weekly discussions will center on a concept in geography, as illustrated through key interventions and debates in the literature. This course is designed to help students:
 * Engage in discussions about geographic scholarship,
 * Trace geographic thought within recent geographic studies,
-* Write critical and informed analyses of entire texts, and
+* Write critical and informed analyses of texts, and
 * Practice independent research in order to situate geographic ideas.
 
 ## III. Format
 
-This course will be composed entirely of seminar discussions. These discussions may occur in-person or via Zoom.
+This course will be composed entirely of seminar discussions. These discussions will occur in-person or, infrequently as necessary, via Zoom.
 
 ## IV. Required Texts
 
-There are 13 required books for this course. Please plan ahead. Contact the instructor if you have difficulty accessing any book.
+There are several required articles and book chapters for this course, and students are encouraged to utilize UK Libraries (including ILL) to access these course materials. Students should contact the instructor if they have difficulty accessing any text.
 
 ## V. Assignments, Activities, and Grading
 
 ### Assessment overview.
 
 Students will be assessed in this course using a variety of methods. Participation in and preparations for seminar are fundamental to successful completion of the course. Assessment is distributed in the following ways, for a total of 100 points:
-* Class participation and preparedness (40 points)
-* Reaction paper 1 (15 points)
-* Reaction paper 2 (15 points)
+* Participation and preparedness (40 points)
+* Reaction essays (30 points)
 * Final paper (30 points)
 
 Final grades will be based on a standard scale, i.e., A=90-100%; B=80-89%; C=70-79%; D=60-69%; E=less than 60%. Grades for all assignments will be available via the University of Kentucky Canvas system (http://uk.instructure.com).
 
-### Class participation and preparedness.
+### Participation and preparedness.
 
-Each week, students will be asked to volunteer to lead our discussions, and these students will coordinate their plans with the instructor. We will use the Canvas discussion board to share questions and resources. Schedule extended time to read the weekly assigned books. Prepare your contributions to our seminars in the form of questions and clarifications, ruminations on selected passages, and select additional material to share in the course of our discussions. This is a rare commons that marks the beginning of your graduate study. Therefore, **everyone should contribute to seminar discussions**. If you find this to be difficult, please schedule time to speak with the instructor.
+As a required course for all entering graduate students, this course is meant to accompany the variety of activities that help students engage in department and College life. Each week, students will be asked to prepare to engage in seminar discussions and take an active role in these discussions: including asking questions, articulating their understanding of the texts, and make connections to other students’ ideas and to other texts of the course. Students will also attend department colloquia and other activities meant to help orient new students to department life. We will use Canvas to remind students of activities and provide discussion boards to share questions and resources. Students should plan to schedule extended time to read the weekly assigned texts. Students should prepare contributions to seminars in the form of questions and clarifications, ruminations on selected passages, and select additional material to share in the course of our discussions. All students should contribute to seminar discussions. If students find this to be difficult, they should schedule time to speak with the instructor.
 
-### Reaction papers.
+### Reaction essays.
 
-There are two reaction papers. These papers should be around five pages, double-spaced, and focus on a single book. Each paper should address the following questions:
-1. What is the argument of the book? (How might you summarize the book? How might this book relate to other readings in previous weeks?)
-2. What evidence is provided to support the argument? (How is the argument constructed? What problem does the book seek to address?)
-3. What are the limits to the argument?
-4. What are the strengths of the argument?
-5. What is the significance of this book (as a book)?
+There will be multiple reaction essays as assigned by the instructor. Some of these will be short responses that are assigned, handwritten, and collected during seminar. Others will be assigned as homework and should be less than two-pages, doubled spaced, with proper attributions of source material.
 
 ### Final paper.
 
-The final paper must be submitted by the scheduled due date for full-credit. The paper should be around 15 pages (no more than 20 pages), double-spaced, and examine a single book from the seminar in greater detail, using additional, supplementary reading. A 250-word abstract will be due in advance that will be shared with the entire class.
+The final paper must be submitted by the scheduled due date for full-credit. The paper should be around 15 pages (no more than 20 pages), double-spaced, and examine a single concept from the seminar in greater detail, using additional, supplementary reading. A 250-word abstract will be due in advance that will be shared with the entire class.
 
 ## VI. Important Notices
 
 ### Prepare for this course.
 
-Review the course syllabus carefully, paying special attention to due dates and assignment instructions. If you have questions about course expectations as overviewed by this syllabus, please contact the instructor as soon as possible.
+Students should review the course syllabus carefully, paying special attention to due dates and assignment instructions. If students have questions about course expectations as overviewed by this syllabus, they should contact the instructor as soon as possible.
 
 ### Attend class.
 
 Attendance is not taken nor required, however, note that:
-1. the majority of your grade depends on your preparation for, and engagement in, seminar;
-2. your success in pushing your disciplinary knowledge largely depends on the effort you apply to supplement the assigned readings with further reading;
-3. in the event of an absence, you should consult the syllabus and your peers regarding discussions you have missed.
+1. the majority of a student’s grade depends on their preparation for, and engagement in, seminar;
+2. student success in pushing their disciplinary knowledge largely depends on the effort they apply to supplement the assigned readings with further reading;
+3. in the event of an absence, students should consult the syllabus and their peers regarding discussions they have missed.
 
 ### Be in contact.
 
-You are responsible for checking your UKY email account; Canvas is what will be used to send communications outside class. Email is the best way to contact the instructor. Please allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
+Students are responsible for checking their UKY email account; Canvas is what will be used to send communications outside class. Email is the best way to contact the instructor. Students should allow at least 24 hours for a response by email during weekdays. The instructor will not necessarily respond to emails over the weekends.
 
 ### Be a resource for others.
 
@@ -91,7 +85,7 @@ All content for this course, including handouts, assignments, and lectures are t
 
 ### Get help.
 
-If you are having difficulty with any course material, please contact the instructor. There are also other resources which you might find useful:
+If students are having difficulty with any course material, please contact the instructor. There are also other resources which students might find useful:
 * Pauer Center for Cartography & GIS in Miller Hall 5, https://geography.as.uky.edu/cartlab
 * The University Writing Center, https://uky.mywconline.com
 * Map Collections, Science Library in King Library 410C, http://libguides.uky.edu/maps
@@ -99,11 +93,11 @@ If you are having difficulty with any course material, please contact the instru
 
 ### Meet deadlines.
 
-Meeting deadlines is an important professional practice. Consult the course schedule, below, for the due dates of the course assignments. A 10-percent deduction will be applied to the final score of your assignment for submissions after the deadline on the same calendar day, with an additional 10-percent deduction for each additional calendar day the assignment is late. If the assignment is not delivered by the next class meeting, the assignment will not be accepted.
+Meeting deadlines is an important professional practice. Students should consult the course schedule, below, for the due dates of the course assignments. A 10-percent deduction will be applied to the final score of an assignment for submissions after the deadline on the same calendar day, with an additional 10-percent deduction for each additional calendar day the assignment is late. If the assignment is not delivered by the next class meeting, the assignment will not be accepted.
 
 ### Be honest.
 
-This course, if successful, will expose you to a variety of concepts and techniques. You are expected to draw upon these various ideas, but you must be transparent and honest about your use of these ideas. Please get help if you are uncertain about this expectation! Per university policy, students shall not plagiarize, cheat, or falsify or misuse academic records. Students should familiarize themselves with policies regarding Academic Offenses (available at https://www.uky.edu/universitysenate/ao). **Please note:** Any assignment you turn in may be submitted to an electronic database to check for plagiarism.
+This course, if successful, will expose students to a variety of concepts and techniques. Students are expected to draw upon these various ideas, but they must be transparent and honest about their use of these ideas. Students should get help if they are uncertain about this expectation. Per university policy, students shall not plagiarize, cheat, or falsify or misuse academic records. Students should familiarize themselves with policies regarding Academic Offenses (available at https://www.uky.edu/universitysenate/ao). Please note: Any assignment students turn in may be submitted to an electronic database to check for plagiarism.
 
 ### Be respectful.
 
@@ -122,11 +116,11 @@ We strive to rectify and change behavior that is inconsistent with our principle
 
 ### Familiarize yourself with campus-wide policies.
 
-To learn more about campus-wide policies on Excused Absences and Acceptable Excuses, Religious Observances, Verification of Absences, Make-Up Work, Excused Absences for Military Duties, Unexcused Absences, Prep Week and Reading Days, Accommodation Due to Disability, Non-Discrimination Statement and Title IX Information, please refer to Academic Policy Statements (available at [https://www.uky.edu/universitysenate/acadpolicy](https://www.uky.edu/universitysenate/acadpolicy)). Please contact the instructor with any questions regarding these policies.
+To learn more about campus-wide policies on Excused Absences and Acceptable Excuses, Religious Observances, Verification of Absences, Make-Up Work, Excused Absences for Military Duties, Unexcused Absences, Prep Week and Reading Days, Accommodation Due to Disability, Non-Discrimination Statement and Title IX Information, students should refer to Academic Policy Statements (available at [https://www.uky.edu/universitysenate/acadpolicy](https://www.uky.edu/universitysenate/acadpolicy)). Students should contact the instructor with any questions regarding these policies.
 
 ## VII. Schedule
 
-*Subject to change. Page assignments will be confirmed a week prior to the scheduled discussion.*
+*Subject to change. Reading assignments will be confirmed a week prior to the scheduled discussion.*
 
 | Week | Topic | Reading |
 | :------- | :--------------:        | :--------------:        |
