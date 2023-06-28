@@ -127,7 +127,7 @@ To learn more about campus-wide policies on Excused Absences and Acceptable Excu
 | 1:<br>Aug. 22 | Agendas and storytellings | Gilmore 2002, Keighren etal. 2017, Kinkaid and Fritzsche 2022, Mott and Cockayne 2017 |
 | 2:<br>Aug. 29 | Space and place | Hawthorne 2019, Massey 1979, 2005, Said 1978, Tuan 1974 |
 | 3:<br>Sep. 5 | Scale | Scale debate: Marston 2000, Marston and Smith 2001, Brenner 2001, Woodward, Jones, Marston 2010<br>Planetary debate: Brenner 2018, Castriota and Tonucci 2018, Derickson 2018, Peake etal. 2018, Pratt 2018, Ruddick etal. 2018 |
-| 4:<br>Sep. 12 | Postcolonialism and militarism | de Leeuw and Hunt 2018, Noxolo 2009, Rivera 2023, Siddiqi 2022, Wainwright 2016<br>Bowman Expedition controversy: Agnew 2010, Bryan 2010, Cruz 2010, Herlihy 2010, Steinberg 2010 |
+| 4:<br>Sep. 12 | Postcolonialism and militarism | de Leeuw and Hunt 2018, Noxolo 2009, Palmer 2023, Rivera 2023, Siddiqi 2022, Wainwright 2016<br>Bowman Expedition controversy: Agnew 2010, Bryan 2010, Cruz 2010, Herlihy 2010, Steinberg 2010 |
 | 5:<br>Sep. 19 | Race and racism | Bonds 2020, Kobayashi 1994, Ramírez 2015, Shabazz 2009, Woods 1998 |
 | 6:<br>Sep. 26 | Culture | Ash, Gordon, Mills 2023, Hawkins 2019, Mitchell 1995, Nash 2002, Parr 2002, Rose 2016, Whatmore 2006 |
 | 7:<br>Oct. 3 | GIS | Bennett etal. 2022, Elwood 2022, Kwan 2002, Pavlovskaya 2018, Schuurman 2000, Warren etal. 2023, Zhao 2022 |
@@ -268,6 +268,9 @@ Nxumalo, Fikile, and Stacia Cedillo. 2017. “Decolonizing place in early childh
 Ouma, Stefan, Leigh Johnson, and Patrick Bigger. 2018. “Rethinking the financialization of ‘nature’.” Environment and Planning A: Economy and Space 50 (3):500-511.
 
 Pain, Rachel. 2014. “Everyday terrorism: Connecting domestic violence and global terrorism.” Progress in Human Geography 38 (4):531-550.
+
+Palmer, Meredith Alberta. 2023. "Good Intentions are Not Good Relations: Grounding the Terms of Debt and Redress at Land Grab Universities." ACME: An International Journal for Critical Geographies.
+
 
 Parr, Hester. 2002. “Medical geography: diagnosing the body in medical and health geography, 1999–2000.” Progress in Human Geography 26 (2):240-251.
 
