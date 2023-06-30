@@ -132,7 +132,7 @@ To learn more about campus-wide policies on Excused Absences and Acceptable Excu
 | 6:<br>Sep. 26 | Culture | Ash, Gordon, Mills 2023, Hawkins 2019, Mitchell 1995, Nash 2002, Parr 2002, Rose 2016, Whatmore 2006 |
 | 7:<br>Oct. 3 | GIS | Bennett etal. 2022, Elwood 2022, Kwan 2002, Pavlovskaya 2018, Schuurman 2000, Warren etal. 2023, Zhao 2022 |
 | 8:<br>Oct. 10 | Affect | Ahmed 2004, Cifor 2015, Lorimer 2005, Tolia-Kelly 2006<br>Debate on affect and emotion: Anderson and Harrison 2006, McCormack 2006, Thien 2005, Thrift 2004 |
-| 9:<br>Oct. 17 | Poststructuralism and capitalism | Fields and Raymond 2021, Gibson-Graham 2004, Gilmore 2004, 2007, Stiegler 2012<br>Debate on postmodernism: Deutsche 1991, Gregory 1990, Massey 1991 |
+| 9:<br>Oct. 17 | Poststructuralism and capitalism | Fields and Raymond 2021, Gibson-Graham 2004, Gilmore 2004, 2007, Stiegler 2012<br>Debate on postmodernism: Deutsche 1991, Gregory 1990, Harvey 1992, Massey 1991 |
 | 10:<br>Oct. 24 | FALL BREAK | - - - |
 | 11:<br>Oct. 31 | Gender and sexuality | Brown and Staeheli 2003, Eaves 2020, Gieseking 2020, Lawson 1998, Mountz 2018, Nxumalo and Cedillo 2017, Pain 2014 |
 | 12:<br>Nov. 7 | Intersectionality | Crenshaw 1989, Eaves and Al-Hindi 2022, Hopkins 2019, Mollett 2021, Rodó-de-Zárate and Baylina 2018 |
@@ -202,6 +202,8 @@ Gilmore, Ruth Wilson. 2002. “Fatal Couplings of Power and Difference: Notes on
 Gilmore, Ruth Wilson. 2007. “The California Political Economy:”, in Golden gulag : prisons, surplus, crisis, and opposition in globalizing California. Berkeley: University of California Press. 30-86.
 
 Gregory, Derek. 1990. “Editorial: Gregory D. (1990).” Environment and Planning D: Society and Space 8:1-6.
+
+Harvey, David. 1992. "Social Justice, Postmodernism and the City." International Journal of Urban and Regional Research 16 (4):588-601.
 
 Hawkins, Harriet. 2019. “Geography’s creative (re)turn: Toward a critical framework.” Progress in Human Geography 43 (6):963-984.
 
