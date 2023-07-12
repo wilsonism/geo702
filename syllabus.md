@@ -25,7 +25,7 @@ This course will be composed entirely of seminar discussions. These discussions 
 
 ## IV. Required Texts
 
-There are several required articles and book chapters for this course, and students are encouraged to utilize UK Libraries (including ILL) to access these course materials. Students should contact the instructor if they have difficulty accessing any text.
+There are several required articles and book chapters for this course (nearly 100 citations), and students are encouraged to utilize UK Libraries (including ILL) to access these course materials. Students should contact the instructor if they have difficulty accessing any text.
 
 ## V. Assignments, Activities, and Grading
 
