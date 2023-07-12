@@ -1,4 +1,4 @@
-# Geography 702:<br>Concepts in Geography<br>Fall 2023 DRAFT
+# Geography 702:<br>Concepts in Geography<br>Fall 2023
 Lectures: T 2-4:30pm, Classroom Building 305
 
 **[Prof. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
