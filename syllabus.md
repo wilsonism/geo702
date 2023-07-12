@@ -138,7 +138,7 @@ To learn more about campus-wide policies on Excused Absences and Acceptable Excu
 | 12:<br>Nov. 7 | Intersectionality | Crenshaw 1989, Eaves and Al-Hindi 2022, Hopkins 2019, Mollett 2021, Rodó-de-Zárate and Baylina 2018 |
 | 13:<br>Nov. 14 | Livingness | Lucceshi 2022, Mbembe 2003, McKittrick 2006, 2021, Reese and Cooper 2021, Safransky 2022, Tuck 2009 |
 | 14:<br>Nov. 21 | NO CLASS<br>SEDAAG | - - - |
-| 15:<br>Nov. 28 | Nature | Kosek 2006, Lave, Biermann, Lane 2018, Ouma, Johnson, Bigger 2018, Pulido etal. 2019<br>Debate on political ecology: Bryant 2015, Loftus 2019, Walker 2005 |
+| 15:<br>Nov. 28 | Nature | Freshour and Williams 2022, Kosek 2006, Lave, Biermann, Lane 2018, Ouma, Johnson, Bigger 2018, Pulido etal. 2019<br>Debate on political ecology: Sultana 2021, Loftus 2019, Walker 2005 |
 | 16:<br>Dec. 5 | Digital | Alvarez León and Rosen 2019, Amoore 2018, Datta 2020, Jefferson 2020, Leszczynski 2020, Richardson 2018 |
 
 **Final Paper Due: Tuesday, Dec. 12th, 5pm on Canvas**
@@ -169,8 +169,6 @@ Brown, Michael, and Lynn A. Staeheli. 2003. “‘Are we there yet?’ Feminist 
 
 Bryan, Joe. 2010. “Force multipliers: Geography, militarism, and the Bowman Expeditions.” Political Geography 29:414-416.
 
-Bryant, Raymond L. 2015. “Political ecology: handbook topics and themes.” In The International Handbook of Political Ecology, edited by Raymond L. Bryant, 3-13. London: Edward Elgar Publishing.
-
 Castriota, Rodrigo, and João Tonucci. 2018. “Extended urbanization in and from Brazil.” Environment and Planning D: Society and Space 36 (3):512-528.
 
 Cifor, Marika 2015. “Presence, Absence, and Victoria’s Hair: Examining Affect and Embodiment in Trans Archives.” Transgender Studies Quarterly 2(4), 645-649.
@@ -194,6 +192,8 @@ Eaves, LaToya E., and Karen Falconer Al-Hindi. 2022. “Intersectional Sensibili
 Elwood, Sarah A. 2022. “Toward a Fourth Generation Critical GIS: Extraordinary Politics.” ACME: An International Journal for Critical Geographies 21 (4):436-447.
 
 Fields, Desiree, and Elora Lee Raymond. 2021. “Racialized geographies of housing financialization.” Progress in Human Geography 45 (6):1625-1645.
+
+Freshour, Carrie, and Brian Williams. 2022. “Toward “Total Freedom”: Black Ecologies of Land, Labor, and Livelihoods in the Mississippi Delta.” Annals of the American Association of Geographers.
 
 Gieseking, Jen Jack. 2020. “Mapping lesbian and queer lines of desire: Constellations of queer urban space.” Environment and Planning D: Society and Space 38 (5):941-960.
 
@@ -277,7 +277,6 @@ Pain, Rachel. 2014. “Everyday terrorism: Connecting domestic violence and glob
 
 Palmer, Meredith Alberta. 2023. "Good Intentions are Not Good Relations: Grounding the Terms of Debt and Redress at Land Grab Universities." ACME: An International Journal for Critical Geographies.
 
-
 Parr, Hester. 2002. “Medical geography: diagnosing the body in medical and health geography, 1999–2000.” Progress in Human Geography 26 (2):240-251.
 
 Pavlovskaya, Marianna. 2018. “Critical GIS as a tool for social transformation.” The Canadian Geographer 62 (1):40-54.
@@ -315,6 +314,8 @@ Siddiqi, Ayesha. 2022. “The missing subject: Enabling a postcolonial future fo
 Steinberg, Philip E. 2010. “Professional ethics and the politics of geographic knowledge.” Political Geography 29:413.
 
 Stiegler, Bernard. 2012. “Relational ecology and the digital pharmakon.” Culture Machine 13:1-19.
+
+Sultana, Farhana. 2021. “Political ecology I: From margins to center.” Progress in Human Geography 45 (1):156-165.
 
 Thien, Deborah. 2005. “After or beyond feeling? A consideration of affect and emotion in geography.” Area 37 (4):450-456.
 
