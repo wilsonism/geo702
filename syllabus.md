@@ -138,7 +138,7 @@ To learn more about campus-wide policies on Excused Absences and Acceptable Excu
 | 12:<br>Nov. 7 | Intersectionality | Crenshaw 1989, Eaves and Al-Hindi 2022, Hopkins 2019, Mollett 2021, Rodó-de-Zárate and Baylina 2018 |
 | 13:<br>Nov. 14 | Livingness | Lucceshi 2022, Mbembe 2003, McKittrick 2006, 2021, Reese and Cooper 2021, Safransky 2022, Tuck 2009 |
 | 14:<br>Nov. 21 | NO CLASS<br>SEDAAG | - - - |
-| 15:<br>Nov. 28 | Nature | Kosek 2006, Lave, Biermann, Lane 2018, Ouma, Johnson, Bigger 2018, Pulido etal. 2019 |
+| 15:<br>Nov. 28 | Nature | Kosek 2006, Lave, Biermann, Lane 2018, Ouma, Johnson, Bigger 2018, Pulido etal. 2019<br>Debate on political ecology: Bryant 2015, Loftus 2019, Walker 2005 |
 | 16:<br>Dec. 5 | Digital | Alvarez León and Rosen 2019, Amoore 2018, Datta 2020, Jefferson 2020, Leszczynski 2020, Richardson 2018 |
 
 **Final Paper Due: Tuesday, Dec. 12th, 5pm on Canvas**
@@ -168,6 +168,8 @@ Brenner, Neil. 2018. “Debating planetary urbanization: For an engaged pluralis
 Brown, Michael, and Lynn A. Staeheli. 2003. “‘Are we there yet?’ Feminist political geographies.” Gender, Place and Culture 10 (3):247-255.
 
 Bryan, Joe. 2010. “Force multipliers: Geography, militarism, and the Bowman Expeditions.” Political Geography 29:414-416.
+
+Bryant, Raymond L. 2015. “Political ecology: handbook topics and themes.” In The International Handbook of Political Ecology, edited by Raymond L. Bryant, 3-13. London: Edward Elgar Publishing.
 
 Castriota, Rodrigo, and João Tonucci. 2018. “Extended urbanization in and from Brazil.” Environment and Planning D: Society and Space 36 (3):512-528.
 
@@ -230,6 +232,8 @@ Lave, Rebecca, Christine Biermann, and Stuart N. Lane. 2018. “Introducing crit
 Lawson, Victoria. 1998. “Hierarchical households and gendered migration in Latin America: feminist extensions to migration research.” Progress in Human Geography 22 (1):39-53.
 
 Leszczynski, Agnieszka. 2020. “Glitchy vignettes of platform urbanism.” Environment and Planning D: Society and Space 38 (2):189-208.
+
+Loftus, Alex. 2019. “Political ecology I: Where is political ecology?” Progress in Human Geography 43 (1):172-182.
 
 Lorimer, Hayden. 2005. “Cultural geography: the busyness of being ‘more-than-representational’.” Progress in Human Geography 29 (1):83-94.
 
@@ -323,6 +327,8 @@ Tuan, Yi-Fu. 1974. “Space and place: Humanistic perspective.” Progress in Ge
 Tuck, Eve. 2009. “Suspending Damage: A Letter to Communities.” Harvard Educational Review 79 (3):409-427.
 
 Wainwright, Joel D. 2016. “The U.S. Military and Human Geography: Reflections on Our Conjuncture.” Annals of the American Association of Geographers 106 (3):513-520.
+
+Walker, Peter A. 2005. “Political ecology: where is the ecology?” Progress in Human Geography 29 (1):73-82.
 
 Warren, Stacy, Matthew Bampton, Leslie Cornick, and Najeda Patolo. 2023. “Mapping the anthropogenic ocean: A critical GIS approach.” Geographical Review. doi: https://doi.org/10.1080/00167428.2023.2168542.
 
