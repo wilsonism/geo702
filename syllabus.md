@@ -135,11 +135,12 @@ To learn more about campus-wide policies on Excused Absences and Acceptable Excu
 | 9:<br>Oct. 17 | Poststructuralism and capitalism | Fields and Raymond 2021, Gibson-Graham 2004, Gilmore 2007, Stiegler 2012<br>Debate on postmodernism: Deutsche 1991, Gregory 1990, Harvey 1992, Massey 1991 |
 | 10:<br>Oct. 24 | FALL BREAK | - - - |
 | 11:<br>Oct. 31 | Gender and sexuality | Brown and Staeheli 2003, Eaves 2020, Gieseking 2020, Lawson 1998, Mountz 2018, Nxumalo and Cedillo 2017, Pain 2014 |
-| 12:<br>Nov. 7 | Intersectionality | Crenshaw 1989, Eaves and Al-Hindi 2022, Hopkins 2019, Mollett 2021, Rodó-de-Zárate and Baylina 2018 |
-| 13:<br>Nov. 14 | Livingness | Lucceshi 2022, Mbembe 2003, McKittrick 2006, 2021, Reese and Cooper 2021, Safransky 2022, Tuck 2009 |
+| 12:<br>Nov. 7 | NO CLASS | - - - |
+| 13:<br>Nov. 14 | Intersectionality | Crenshaw 1989, Eaves and Al-Hindi 2022, Hopkins 2019, Mollett 2021, Rodó-de-Zárate and Baylina 2018 |
 | 14:<br>Nov. 21 | NO CLASS<br>SEDAAG | - - - |
 | 15:<br>Nov. 28 | Nature | Freshour and Williams 2022, Kosek 2006, Lave, Biermann, Lane 2018, Ouma, Johnson, Bigger 2018, Pulido etal. 2019<br>Debate on political ecology: Sultana 2021, Loftus 2019, Walker 2005 |
-| 16:<br>Dec. 5 | Digital | Alvarez León and Rosen 2019, Amoore 2018, Datta 2020, Jefferson 2020, Leszczynski 2020, Richardson 2018 |
+| 16:<br>Dec. 5 | Livingness | Lucceshi 2022, Mbembe 2003, McKittrick 2006, 2021, Reese and Cooper 2021, Safransky 2022, Tuck 2009 |
+| 16:<br>Dec. 9 | Bonus Brunch: Digital | Alvarez León and Rosen 2019, Amoore 2018, Datta 2020, Jefferson 2020, Leszczynski 2020, Richardson 2018 |
 
 **Final Paper Due: Tuesday, Dec. 12th, 5pm on Canvas**
 
