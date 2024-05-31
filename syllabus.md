@@ -1,9 +1,8 @@
-# Geography 702:<br>Concepts in Geography<br>Fall 2023
-Lectures: T 2-4:30pm, Classroom Building 305
+# Geography 702:<br>Concepts in Geography<br>Fall 2024
+Lectures: T 2-4:30pm, Miller Hall Room 6 ("Raitz Library")
 
 **[Prof. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
 *Email:* matthew.w.wilson@uky.edu<br>
-*Twitter:* [@wilsonism](https://twitter.com/wilsonism)<br>
 *Office:* Patterson Office Tower (POT) 815<br>
 *Office Hours:* email for an appointment<br>
 
@@ -124,25 +123,25 @@ To learn more about campus-wide policies on Excused Absences and Acceptable Excu
 
 | Week | Concept | Readings |
 | :------- | :--------------:        | :--------------        |
-| 1:<br>Aug. 22 | Agendas and storytellings | Gilmore 2002, Keighren etal. 2017, Kinkaid and Fritzsche 2022, Mott and Cockayne 2017 |
-| 2:<br>Aug. 29 | Space and place | Hawthorne 2019, Massey 1979, 2005, Said 1978, Tuan 1974 |
-| 3:<br>Sep. 5 | Scale | Scale debate: Marston 2000, Marston and Smith 2001, Brenner 2001, Woodward, Jones, Marston 2010<br>Planetary debate: Brenner 2018, Castriota and Tonucci 2018, Derickson 2018, Peake etal. 2018, Pratt 2018, Ruddick etal. 2018 |
-| 4:<br>Sep. 12 | Postcolonialism and militarism | de Leeuw and Hunt 2018, Noxolo 2009, Palmer 2023, Rivera 2023, Siddiqi 2022, Wainwright 2016<br>Bowman Expedition controversy: Agnew 2010, Bryan 2010, Cruz 2010, Herlihy 2010, Steinberg 2010 |
-| 5:<br>Sep. 19 | Race and racism | Bonds 2020, Kobayashi 1994, Ramírez 2015, Shabazz 2009, Woods 1998 |
-| 6:<br>Sep. 26 | Culture | Ash, Gordon, Mills 2023, Hawkins 2019, Mitchell 1995, Nash 2002, Parr 2002, Rose 2016, Whatmore 2006 |
-| 7:<br>Oct. 3 | GIS | Bennett etal. 2022, Elwood 2022, Kwan 2002, Pavlovskaya 2018, Schuurman 2000, Warren etal. 2023, Zhao 2022 |
-| 8:<br>Oct. 10 | Affect | Ahmed 2004, Cifor 2015, Lorimer 2005, Tolia-Kelly 2006<br>Debate on affect and emotion: Anderson and Harrison 2006, McCormack 2006, Thien 2005, Thrift 2004 |
-| 9:<br>Oct. 17 | Poststructuralism and capitalism | Fields and Raymond 2021, Gibson-Graham 2004, Gilmore 2007, Stiegler 2012<br>Debate on postmodernism: Deutsche 1991, Gregory 1990, Harvey 1992, Massey 1991 |
-| 10:<br>Oct. 24 | FALL BREAK | - - - |
-| 11:<br>Oct. 31 | Gender and sexuality | Brown and Staeheli 2003, Eaves 2020, Gieseking 2020, Lawson 1998, Mountz 2018, Nxumalo and Cedillo 2017, Pain 2014 |
-| 12:<br>Nov. 7 | NO CLASS | - - - |
-| 13:<br>Nov. 14 | Intersectionality | Crenshaw 1989, Eaves and Al-Hindi 2022, Hopkins 2019, Mollett 2021, Rodó-de-Zárate and Baylina 2018 |
-| 14:<br>Nov. 21 | NO CLASS<br>SEDAAG | - - - |
-| 15:<br>Nov. 28 | Nature | Freshour and Williams 2022, Kosek 2006, Lave, Biermann, Lane 2018, Ouma, Johnson, Bigger 2018, Pulido etal. 2019<br>Debate on political ecology: Sultana 2021, Loftus 2019, Walker 2005 |
-| 16:<br>Dec. 5 | Livingness | Lucceshi 2022, Mbembe 2003, McKittrick 2006, 2021, Reese and Cooper 2021, Safransky 2022, Tuck 2009 |
-| 16:<br>Dec. 9 | Bonus Brunch: Digital | Alvarez León and Rosen 2019, Amoore 2018, Datta 2020, Jefferson 2020, Leszczynski 2020, Richardson 2018 |
+| 1:<br>Aug. 27 | Canvas Discussion: Agendas and storytellings<br><br>CLASS WILL NOT MEET | Gilmore 2002, Keighren etal. 2017, Kinkaid and Fritzsche 2022, Mott and Cockayne 2017 |
+| 2:<br>Sep. 3 | Space and place | Hawthorne 2019, Massey 1979, 2005, Said 1978, Tuan 1974 |
+| 3:<br>Sep. 10 | Scale | Scale debate: Marston 2000, Marston and Smith 2001, Brenner 2001, Woodward, Jones, Marston 2010<br>Planetary debate: Brenner 2018, Castriota and Tonucci 2018, Derickson 2018, Peake etal. 2018, Pratt 2018, Ruddick etal. 2018 |
+| 4:<br>Sep. 17 | Postcolonialism and militarism | de Leeuw and Hunt 2018, Noxolo 2009, Palmer 2023, Rivera 2023, Siddiqi 2022, Wainwright 2016<br>Bowman Expedition controversy: Agnew 2010, Bryan 2010, Cruz 2010, Herlihy 2010, Steinberg 2010 |
+| 5:<br>Sep. 24 | Race and racism | Bonds 2020, Kobayashi 1994, Ramírez 2015, Shabazz 2009, Woods 1998 |
+| 6:<br>Oct. 1 | Culture | Ash, Gordon, Mills 2023, Hawkins 2019, Mitchell 1995, Nash 2002, Parr 2002, Rose 2016, Whatmore 2006 |
+| 7:<br>Oct. 8 | GIS | Bennett etal. 2022, Elwood 2022, Kwan 2002, Pavlovskaya 2018, Schuurman 2000, Warren etal. 2023, Zhao 2022 |
+| 8:<br>Oct. 15 | Affect | Ahmed 2004, Cifor 2015, Lorimer 2005, Tolia-Kelly 2006<br>Debate on affect and emotion: Anderson and Harrison 2006, McCormack 2006, Thien 2005, Thrift 2004 |
+| 9:<br>Oct. 22 | Poststructuralism and capitalism | Fields and Raymond 2021, Gibson-Graham 2004, Gilmore 2007, Stiegler 2012<br>Debate on postmodernism: Deutsche 1991, Gregory 1990, Harvey 1992, Massey 1991 |
+| 10:<br>Oct. 29 | FALL BREAK | - - - |
+| 11:<br>Nov. 5 | NO CLASS | - - - |
+| 12:<br>Nov. 12 | Gender and sexuality | Brown and Staeheli 2003, Eaves 2020, Gieseking 2020, Lawson 1998, Mountz 2018, Nxumalo and Cedillo 2017, Pain 2014 |
+| 13:<br>Nov. 19 | Intersectionality | Crenshaw 1989, Eaves and Al-Hindi 2022, Hopkins 2019, Mollett 2021, Rodó-de-Zárate and Baylina 2018 |
+| 14:<br>Nov. 26 | NO CLASS<br>SEDAAG | - - - |
+| 15:<br>Dec. 3 | Nature | Freshour and Williams 2022, Kosek 2006, Lave, Biermann, Lane 2018, Ouma, Johnson, Bigger 2018, Pulido etal. 2019<br>Debate on political ecology: Sultana 2021, Loftus 2019, Walker 2005 |
+| 16:<br>Dec. 10 | Livingness | Lucceshi 2022, Mbembe 2003, McKittrick 2006, 2021, Reese and Cooper 2021, Safransky 2022, Tuck 2009 |
+| 16:<br>Dec. 17 | Digital | Alvarez León and Rosen 2019, Amoore 2018, Datta 2020, Jefferson 2020, Leszczynski 2020, Richardson 2018 |
 
-**Final Paper Due: Tuesday, Dec. 12th, 5pm on Canvas**
+**Final Paper Due: Friday, Dec. 20th, 5pm on Canvas**
 
 ## VIII. References
 
