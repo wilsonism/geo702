@@ -1,4 +1,4 @@
-# Geography 702:<br>Concepts in Geography<br>Fall 2024
+# Geography 702-001:<br>Concepts in Geography<br>Fall 2024
 Lectures: T 2-4:30pm, Miller Hall Room 6 ("Raitz Library")
 
 **[Prof. Matthew W. Wilson](https://wilsonism.github.io/)**<br>
@@ -96,7 +96,7 @@ Meeting deadlines is an important professional practice. Students should consult
 
 ### Be honest.
 
-This course, if successful, will expose students to a variety of concepts and techniques. Students are expected to draw upon these various ideas, but they must be transparent and honest about their use of these ideas. Students should get help if they are uncertain about this expectation. Per university policy, students shall not plagiarize, cheat, or falsify or misuse academic records. Students should familiarize themselves with policies regarding Academic Offenses (available at https://www.uky.edu/universitysenate/ao). Please note: Any assignment students turn in may be submitted to an electronic database to check for plagiarism.
+This course, if successful, will expose students to a variety of concepts and techniques. Students are expected to draw upon these various ideas, but they must be transparent and honest about their use of these ideas. Students should get help if they are uncertain about this expectation. Per university policy, students shall not plagiarize, cheat, or falsify or misuse academic records. Students should familiarize themselves with definitions regarding plagiarism (available at [https://ombud.uky.edu/students/what-plagiarism](https://ombud.uky.edu/students/what-plagiarism)) and cheating (available at [https://ombud.uky.edu/students/what-cheating](https://ombud.uky.edu/students/what-cheating). Please note: Any assignment students turn in may be submitted to an electronic database to check for plagiarism.
 
 ### Be respectful.
 
@@ -115,7 +115,39 @@ We strive to rectify and change behavior that is inconsistent with our principle
 
 ### Familiarize yourself with campus-wide policies.
 
-To learn more about campus-wide policies on Excused Absences and Acceptable Excuses, Religious Observances, Verification of Absences, Make-Up Work, Excused Absences for Military Duties, Unexcused Absences, Prep Week and Reading Days, Accommodation Due to Disability, Non-Discrimination Statement and Title IX Information, students should refer to Academic Policy Statements (available at [https://www.uky.edu/universitysenate/acadpolicy](https://www.uky.edu/universitysenate/acadpolicy)). Students should contact the instructor with any questions regarding these policies.
+To learn more about campus-wide policies on Excused Absences and Acceptable Excuses, Religious Observances, Verification of Absences, Make-Up Work, Excused Absences for Military Duties, Unexcused Absences, Prep Week and Reading Days, Accommodation Due to Disability, Non-Discrimination Statement and Title IX Information, students should refer to Academic Policy Statements (available at [https://provost.uky.edu/proposals/guidance-course-proposals/standard-academic-policy-statements](https://provost.uky.edu/proposals/guidance-course-proposals/standard-academic-policy-statements)). Students should contact the instructor with any questions regarding these policies.
+
+### Review information regarding classroom emergency preparedness and response
+
+Nothing is more important than the safety and well-being of our campus community. While the University of Kentucky Police Department continues to enhance campus safety measures, it’s important to remember that everyone has a responsibility in keeping our community safe. To find more information visit [https://police.uky.edu/emergency-response-guide](Emergency Response Guide) created by the University of Kentucky Police Department.
+
+**Emergency Reporting & Action**
+*Reporting*: If there is an emergency, DIAL 911. To report suspicious activity or non-emergency situations, call the UK Police Department at 859-257-8573 or #UKPD from any mobile phone. If an emergency occurs in a classroom or residence hall with a red emergency button, press to quickly notify UKPD. Emergency responders will immediately be dispatched to your location.
+*Action*: During an emergency, you are responsible for your own safety. If an emergency occurs during class, your instructor will provide further direction based on university and department emergency plans.
+
+**Warning Systems**
+*UK Alert*: The university provides emergency notifications through UK Alert, which sends messages via email, text message, phone calls, building alarm systems, digital signage, social media and outdoor sirens. If you receive a UK Alert message during class, notify your instructor and classmates immediately. For more information, visit [https://police.uky.edu/get-notified/uk-alert](https://police.uky.edu/get-notified/uk-alert).
+*LiveSafe*: The university provides additional emergency preparedness information and safety tools through LiveSafe, a free mobile app for iOS and Android. You can report suspicious activity, message with UK Police and virtually escort your friends through the SafeWalk tool. For more information, visit [https://police.uky.edu/safety/livesafe](https://police.uky.edu/safety/livesafe).
+*Blue Emergency Towers*: Blue Emergency Notification Towers are strategically placed at over 50 locations across campus to provide outdoor alert tones and broadcast emergency messages with loud speakers. Each tower also features an emergency push button speaker phone that reaches UKPD and a camera mounted above the tower.
+For more information, visit [https://police.uky.edu/safety/blue-emergency-towers](https://police.uky.edu/safety/blue-emergency-towers).
+
+**Medical Emergency**
+If there is a medical emergency, dial 911 and do not act outside the scope of your medical training. After dialing 911, inform your instructor of the situation.
+
+**Evacuation**
+It is required to evacuate for a fire alarm or when university officials order us to do so. Evacuation routes are marked with illuminated exit signs throughout the building. Avoid using elevators during any evacuation.
+
+**Emergency Sheltering**
+*Storm Sheltering*: Report to the recommended shelter locations. Recommended shelter locations are marked throughout the building. If shelter locations are unavailable, protect yourself from lightning and flying debris by moving to an interior room or hallway on the building's lowest level. Avoid outside doors and windows and get under a sturdy table and use your arms to protect your head and neck.
+*Shelter-in-Place*: If a shelter-in-place order is issued, you will learn about this through UK Alert, the university’s emergency notification system. If you are inside, stay where you are unless the building you are in is affected. If the building is affected, and the fire alarm has been activated or directed by law enforcement, you should evacuate. If you are outdoors, proceed into the closest UK building or follow instructions from emergency personnel or alerts. It is ideal to shelter-in-place in an interior room with the fewest or no windows and no doors to the outside if
+possible. Shut all windows and close exterior doors. If a hazardous chemical release occurs outside the building, follow these same procedures.
+
+**Active Aggressor**
+In a situation where an aggressor is trying to attack you or others, follow three steps:
+1. Run: Attempt to get away from the attacker.
+2. Hide: If you cannot run, barricade yourself in a safe place. Turn your phone to silent and dim your brightness. If possible, use the LiveSafe App to message UK Police and alert them to your location. If you don’t have the app, dial 911. If you cannot speak, leave the line open and allow the dispatcher to listen.
+3. Fight: If you cannot run or hide, do whatever you need to do to stop the attacker.
+UK Police will communicate additional information through the UK Alert system during an active aggressor situation. Every UKY email automatically receives UK Alerts. You can also sign up in myUK to receive alerts via text and phone call.
 
 ## VII. Schedule
 
